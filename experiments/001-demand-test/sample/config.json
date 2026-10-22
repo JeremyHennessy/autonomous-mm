@@ -1,0 +1,9 @@
+{
+  "columns": ["account_id", "business_name", "city", "renewal_date"],
+  "key": "account_id",
+  "required": ["account_id", "business_name"],
+  "trim": ["business_name", "city"],
+  "ambiguous_date_fields": ["renewal_date"],
+  "remove_exact_full_row_duplicates": true,
+  "formula_policy": "quarantine"
+}

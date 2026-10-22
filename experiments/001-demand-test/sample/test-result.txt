@@ -1,0 +1,18 @@
+Observed 2026-10-22 UTC. Root hardening review and fresh reproduction.
+test_bom_crlf_escaped_quotes_and_trailing_control (test_csv_cleanup.CleanupTests.test_bom_crlf_escaped_quotes_and_trailing_control) ... ok
+test_determinism_and_cleaned_idempotency (test_csv_cleanup.CleanupTests.test_determinism_and_cleaned_idempotency) ... ok
+test_duplicate_rule_can_be_disabled (test_csv_cleanup.CleanupTests.test_duplicate_rule_can_be_disabled) ... ok
+test_existing_output_and_input_overwrite_refused (test_csv_cleanup.CleanupTests.test_existing_output_and_input_overwrite_refused) ... ok
+test_formula_controls_dates_and_quoted_commas (test_csv_cleanup.CleanupTests.test_formula_controls_dates_and_quoted_commas) ... ok
+test_invalid_config (test_csv_cleanup.CleanupTests.test_invalid_config) ... ok
+test_limits_headers_and_required_key (test_csv_cleanup.CleanupTests.test_limits_headers_and_required_key) ... ok
+test_malformed_inputs_produce_no_directory (test_csv_cleanup.CleanupTests.test_malformed_inputs_produce_no_directory) ... ok
+test_no_normalized_duplicate_deletion (test_csv_cleanup.CleanupTests.test_no_normalized_duplicate_deletion) ... ok
+test_sample_counts_original_and_ids (test_csv_cleanup.CleanupTests.test_sample_counts_original_and_ids) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.019s
+
+OK
+
+Fresh output reproduced byte-for-byte in two new temporary directories.
