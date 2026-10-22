@@ -1,6 +1,6 @@
 # Operating checkpoint
 
-As of 2026-10-22 UTC. Post-merge checkpoint; not evidence of a live business or autonomous runtime.
+As of 2026-10-22 17:18 UTC. Listing published; no verified customer sale or autonomous runtime.
 
 ## Verified
 - GitHub connector confirms `JeremyHennessy/autonomous-mm` is public, active, and defaults to `main`.
@@ -13,10 +13,12 @@ As of 2026-10-22 UTC. Post-merge checkpoint; not evidence of a live business or 
 - Spending cap: $0. No trading, paid services, external marketing, credential grants or deployment initiated by this bootstrap.
 
 ## Current objective
-The owner declined the CSV pilot on 2026-10-22. Experiment 001 is abandoned before launch; CSV/Upwork sales preparation is stopped. Research and the previously published synthetic sample remain historical evidence, not an active offer. The audio candidate is selected for a bounded unpublished test, not a validated business. The [inbound candidate evaluation](../research/opportunities/inbound-pivot.md) compares self-serve assets, templates and an Actor. Six original procedural UI sounds are complete offline. Reported technical checks passed, and WAV hashes matched across two independent processes. A 4.31-second audition was delivered privately to the owner for a harshness/click check; the owner replied “seems fine,” providing basic listening acceptance of the six samples. This is not independent professional audio QA or commercial validation. The bounded 24-cue local pack is now complete: six groups, 48 kHz mono 16-bit WAV, and an 18.555-second preview. Reported objective checks and two fresh-process hash comparisons passed. The full pack has not been listened to by the assistant or owner. Preview, cover and review ZIP were delivered privately; no audio, generator or cover is published here. See the [experiment plan](../experiments/002-ui-audio/PLAN.md) and [unpublished listing draft](../experiments/002-ui-audio/LISTING-DRAFT.md).
+The owner declined the CSV pilot on 2026-10-22. Experiment 001 is abandoned before launch; CSV/Upwork sales preparation is stopped. Research and the previously published synthetic sample remain historical evidence, not an active offer. The audio product is published for a bounded sales test, not a validated business. The [inbound candidate evaluation](../research/opportunities/inbound-pivot.md) compares self-serve assets, templates and an Actor. Six original procedural UI sounds are complete offline. Reported technical checks passed, and WAV hashes matched across two independent processes. A 4.31-second audition was delivered privately to the owner for a harshness/click check; the owner replied “seems fine,” providing basic listening acceptance of the six samples. This is not independent professional audio QA or commercial validation. The bounded 24-cue local pack is now complete: six groups, 48 kHz mono 16-bit WAV, and an 18.555-second preview. Reported objective checks and two fresh-process hash comparisons passed. The full pack has not been listened to by the assistant or owner. Preview, cover and review ZIP were delivered privately; no audio, generator or cover is published here. See the [experiment plan](../experiments/002-ui-audio/PLAN.md) and [historical listing draft](../experiments/002-ui-audio/LISTING-DRAFT.md).
 
-## Unpublished preparation checkpoint
-An unpublished marketplace draft has been saved. No public launch or paid-pack delivery is verified. Owner-uploaded cover and preview were verified in the draft editor. The preview was marked as a free demo and saved; Draft visibility remains selected. Paid-pack upload remains unverified. Account-specific onboarding, payment details and private editor references are retained in owner-held private records, not this public repository. Final price/currency, customer license, applicable deductions and publication require resolution and approval before launch. No sales, receipts or settled profit are verified.
+## Publication checkpoint
+At 2026-10-22 17:18 UTC, the operating agent verified the Published label and live [Quiet Interface listing](https://autonomous-mm.itch.io/quiet-interface) in an authenticated browser at CA$7, with cover and concise description. Required AI classification was retained; the longer provenance sales paragraph was removed. External web fetch was unavailable, so anonymous reachability is not yet independently verified. No test purchase or customer sale is verified, and no earnings or settled-profit claim is made.
+
+The purchase-gated `Quiet_Interface_24_UI_Sounds_v1.zip` is 862059 bytes, SHA-256 `cefb20aed23d4061d5b9a6abec61e5bf62870b11860e9d3049e9143f75844809`. The free preview was downloaded from the listing and matched SHA-256 `5788660a772d77a55a014fa54ef443b1d2a49d6b3b7b4d057d2f325eb9b9d467`. This verifies the preview download, not successful purchase fulfillment. Paid binaries, source generator, private editor references and account/payment/tax details are excluded from this repository.
 
 ## Runtime
 - Architecture: proposed in [RUNBOOK.md](../operations/RUNBOOK.md).
@@ -28,16 +30,16 @@ An unpublished marketplace draft has been saved. No public launch or paid-pack d
 ## Financial state
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
-## Next authorized actions
-1. Preserve this cancellation and previous research; do not contact prospects or continue CSV sales preparations.
-2. Continue only the authorized unpublished-draft preparation. A draft exists; owner-controlled onboarding and final launch approvals remain gates. No additional product build is needed.
-3. Cover and free-demo preview are verified. Finish only authorized unpublished preparation within existing access; paid-pack, license, final price, onboarding and publication gates remain. Do not bypass restrictions or launch. Maintain this checkpoint after PR #3; no cloud activation or recurrence.
+## Next objective and boundaries
+1. Focus on qualified traffic toward the first actual buyer; do not build a second product. Assess relevant channels and follow their rules and existing communication permissions before outreach or promotion.
+2. Independently verify anonymous listing reachability and record actual views, customer purchases, refunds and settled receipts separately. No test purchase is authorized by this checkpoint.
+3. CSV remains abandoned. No cloud activation, paid promotion, new spending or recurring reasoning runtime is implied by marketplace publication.
 
-## Blocking dependencies
-No active sales experiment is launched. Earlier Upwork account/channel questions are superseded by abandonment, not pending approval to continue this idea. Only unpublished preparation is within the current scope. Owner-controlled onboarding and final publication, pricing, customer-license and deduction approvals remain unresolved. Candidate audio binaries remain outside the public repository. Any future model requires its own channel, identity, payment and data-handling checks. Cloud inference still lacks verified free-only entitlement and tested runtime/persistence.
+## Remaining uncertainty
+No customer demand, sales, earnings or settled profit is verified. Anonymous reachability and paid fulfillment remain untested independently. Full-pack listening remains unverified. Account-specific responsibilities remain in private owner-held records. Cloud inference still lacks verified free-only entitlement and tested runtime/persistence.
 
 ## Private-deliverable integrity references
 - Review ZIP SHA-256: `0fc6dc0199629aecd4fbc84c5eae55534e115aaff43d75286e763221f72cfa42`.
 - Preview SHA-256: `5788660a772d77a55a014fa54ef443b1d2a49d6b3b7b4d057d2f325eb9b9d467`.
 
-These hashes identify privately delivered files, not public downloads or evidence of sales. Owner controls onboarding and keeps account-specific records privately. Final license, sales deductions and publication require separate approval; the approved unpublished-listing setup does not authorize launch.
+The review ZIP is an earlier private review artifact, not the purchase-gated release ZIP. The preview hash also matches the downloaded public-listing demo. Account-specific records remain private. Publication does not establish customer sales or autonomous operation.
