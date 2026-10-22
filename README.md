@@ -19,7 +19,11 @@ Independent AI revenue-operation workspace for discovering, testing, and scaling
 - Payments, revenues, and customers: **Not integrated or verified**.
 - Default discretionary spending and real-money trading authorization: **$0 / none**.
 
-When the agent begins substantive work, it should maintain `state/STATUS.md` with a dated checkpoint and keep its public-safe research and decisions version-controlled.
+## Resume current work
+
+Read [current status](state/STATUS.md), [decision history](state/DECISIONS.md), [financial evidence definitions](finance/README.md), and [cloud activation gates](operations/RUNBOOK.md) before continuing. Initial operating records were merged in [PR #1](https://github.com/JeremyHennessy/autonomous-mm/pull/1) on 2026-10-22.
+
+The CSV pilot was abandoned before launch. An offline six-cue UI-audio candidate has passed reported technical/reproducibility checks and received the owner's basic listening acceptance. A bounded 24-cue local pack and listing draft are next, not an approved launch. No replacement business, public asset listing, payment setup or cloud runtime is active. Audio files remain private; see the status checkpoint for exact next actions and authorization limits.
 
 ## Cloud operation
 
