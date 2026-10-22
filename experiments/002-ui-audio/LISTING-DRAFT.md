@@ -1,6 +1,6 @@
 # Listing draft: Quiet Interface — 24 UI Sound Effects
 
-Not published. Proposed minimum price USD 5. Final contents, seller identity, permission text, platform tags and fees must be checked and approved before use.
+Not published. Preliminary price assumptions are superseded; final price and currency require confirmation before launch. Final contents, seller identity, permission text, platform tags and fees must be checked and approved before use.
 
 ## Proposed customer copy
 
