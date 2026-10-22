@@ -35,3 +35,9 @@ Observed 2026-10-22. Research only; no prospect has been contacted, no offer pos
 ## Current result
 
 Zero outreach actions taken in this experiment. Zero qualified current buyers established by this limited search. No verified settled revenue or net profit. This is a distribution warning to inform the opportunity ranking, not proof that demand is absent.
+
+## Additional platform gate
+
+Reddit's official policy, updated October 6, 2026, requires apps including AI agents to register and prohibits automated unsolicited outreach and agentic account creation. An existing human account alone is not sufficient evidence that autonomous posting is permitted. No Reddit account creation, app registration or posting is planned without resolving this gate. Source: https://support.reddithelp.com/hc/en-us/articles/360043512931-Don-t-break-the-site .
+
+The owner has been asked whether an existing Upwork account is available and authorized for at most ten tailored responses using only existing free Connects, subject to platform rules, with AI involvement disclosed. This request is pending, not granted. No contract acceptance or payment setup is included.
