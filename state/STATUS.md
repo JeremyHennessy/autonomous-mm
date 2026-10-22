@@ -29,3 +29,5 @@ Selected first test: a USD 99 reproducible CSV repair pilot, following the [11-m
 
 ## Blocking dependencies
 A real cloud test needs an approved provider/account, verified free-only billing eligibility, narrowly authorized credential configuration, and permission for the exact test and checkpoint-write mechanism. A commercial test may separately require external outreach/publication and payment setup authorization. No private transaction data belongs in this public repository.
+
+Upwork-specific blocker: every AI-assisted proposal requires owner review and explicit confirmation under the platform's MCP guidance; batch permission cannot authorize hands-off sending. No eligible Upwork plugin was found here. A supported integration and per-proposal confirmation are required before execution; Project Catalog creation/editing is not available through that MCP route. See [channel observations](../experiments/001-demand-test/channel-observations.md).
