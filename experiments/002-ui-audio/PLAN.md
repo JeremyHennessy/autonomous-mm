@@ -18,7 +18,7 @@ The owner listened to the initial six-cue, 4.31-second preview and said “seems
 
 ## Actual execution checkpoint
 
-An unpublished marketplace draft has been saved. No public launch or paid-pack delivery is verified. Draft presentation remains incomplete; an asset-upload limitation requires owner assistance rather than a security-policy bypass. Account-specific onboarding, payment details and private editor references are retained in owner-held private records, not this public repository. Final price/currency, customer license, applicable deductions and publication require resolution and approval before launch. No sales, receipts or settled profit are verified.
+An unpublished marketplace draft has been saved. No public launch or paid-pack delivery is verified. Owner-uploaded cover and preview were verified in the draft editor. The preview was marked as a free demo and saved; Draft visibility remains selected. Paid-pack upload remains unverified. Account-specific onboarding, payment details and private editor references are retained in owner-held private records, not this public repository. Final price/currency, customer license, applicable deductions and publication require resolution and approval before launch. No sales, receipts or settled profit are verified.
 
 Full-pack listening remains unverified; only the original six samples received basic owner listening acceptance. The public test below has not started.
 
