@@ -1,6 +1,6 @@
 # Experiment 002: self-serve interface audio
 
-2026-10-22. Local preparation only. No live listing, account, purchase or revenue.
+2026-10-22 16:37 UTC. Local pack prepared and private marketplace Draft saved. No public listing, uploaded paid pack, verified purchase or measured revenue.
 
 ## Decision and evidence
 
@@ -12,9 +12,19 @@ The owner listened to the initial six-cue, 4.31-second preview and said “seems
 
 - Six original procedural cues generated without downloaded recordings, packages or services; objective audio checks and two-process reproducibility passed.
 - Completed locally: 24 cues across six groups, 48 kHz mono 16-bit WAV, one 18.555-second preview, filenames and provenance. Reported objective checks and two fresh-process hash comparisons passed. No mass-generated catalog expansion. Full-pack listening by assistant or owner has not occurred.
-- Preview, cover and review ZIP were delivered privately. No further product build is needed before account/launch gates. Owner approved a free seller account using their Gmail, public name Autonomous MM, and an UNPUBLISHED USD 5 listing under linked terms. Creation is not yet verified; browser inspection is in progress. This does not authorize publication, final license/sales deductions, tax/payment setup, upfront spending or paid promotion.
+- Preview, cover and review ZIP were delivered privately. No further product build is needed before account/launch gates. Owner approved a free seller account using their Gmail, public name Autonomous MM, and an UNPUBLISHED USD 5 listing under linked terms. Creator access and private Draft creation are now verified; see execution checkpoint below. This does not authorize publication, final license/sales deductions, tax/payment setup, upfront spending or paid promotion.
 - Keep paid-content candidates and source generators in private deliverables, not this public Git repository. Public records may retain aggregate checks and file hashes, not private account/customer details.
 - Draft listing and usage permission remain nonbinding proposals until approved. No “No AI,” exclusive ownership, professional recording or human-quality-control claims.
+
+## Actual execution checkpoint
+
+At 2026-10-22 16:37 UTC, the operating agent verified the logged-in Autonomous MM creator dashboard and saved private Draft project 5209761: [Quiet Interface](https://autonomous-mm.itch.io/quiet-interface), [owner editor](https://itch.io/game/edit/5209761). The URL is not evidence of public availability. Title: Quiet Interface - 24 UI Sound Effects; Game assets; Downloadable; Paid draft USD 5; AI disclosure Yes for graphics/sounds/text/code; comments disabled; Draft visibility. Only the short description is entered; no downloadable paid pack is uploaded.
+
+Cover upload through the native picker failed with “Failed to read image from disk.” A subsequent local-file diagnostic was blocked by organization policy; no alternative rehost or security bypass was attempted. The owner was asked to upload the privately delivered cover PNG and preview WAV, keep Draft visibility, and not upload the review ZIP. Successful owner upload is not yet verified.
+
+The owner reported completing payment settings to their PayPal account and asked work to continue. On refresh at 16:37 UTC, the prior “payments not configured” warning was gone. This does not verify payment mode, receiver, settlement, tax completion or receipts; no account identifiers or secrets are recorded here. Final customer license, actual deductions and public launch remain unapproved.
+
+Full-pack listening remains unverified; only the original six samples received basic owner listening acceptance. The public test below has not started.
 
 ## Planned test after authorization
 
@@ -26,12 +36,12 @@ No positive first-week settled-cash forecast is justified by the documented hold
 
 ## Required approvals before sale
 
-1. Approved seller account and public identity for this independent venture; do not reuse another project's audience or branding.
+1. Seller-account/private-draft scope and Autonomous MM public identity approved; access and Draft verified. Do not reuse another project's audience or branding.
 2. One public listing and automatic delivery of this specified asset at the proposed price, with finalized customer usage terms and accurate AI disclosure.
 3. Accept the applicable [itch.io publisher terms](https://itch.io/docs/legal/terms) and disclosed [payment deductions](https://itch.io/docs/creators/payments). No subscription, card charge or upfront spending is included. Stop if actual terms or charges differ.
 4. Owner completes tax identity and payment onboarding directly. Do not request tax identifiers, passwords or bank details in chat. No account opening or transfer is delegated by sample feedback.
 
-The collected-payment route reduces direct merchant/VAT handling but delays payout. The publisher still has contractual obligations and may face refunds/adjustments; this is not a risk-free income promise. Review the actual onboarding flow before any final approval request.
+If that mode is selected, the collected-payment route reduces direct merchant/VAT handling but delays payout. The publisher still has contractual obligations and may face refunds/adjustments; this is not a risk-free income promise. Review the actual onboarding flow before any final approval request.
 
 ## Runtime separation
 

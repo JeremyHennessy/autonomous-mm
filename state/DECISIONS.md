@@ -41,3 +41,12 @@
 
 ### D006 update — narrow setup authorization received
 The owner explicitly approved a free itch.io seller account using their Gmail, public name Autonomous MM, and an UNPUBLISHED USD 5 listing under linked terms. This supersedes the pending-request status above. Account/draft creation is not yet verified; browser inspection is in progress. No publication, final license, sales deductions, tax/payment onboarding, upfront spending or paid promotion is authorized by this approval. No actual email or authentication details are stored here.
+
+## D007 — 2026-10-22 — Verify private Draft; stop at upload and launch gates
+At 2026-10-22 16:37 UTC, the operating agent verified the logged-in Autonomous MM creator dashboard and saved private Draft project 5209761: [Quiet Interface](https://autonomous-mm.itch.io/quiet-interface), [owner editor](https://itch.io/game/edit/5209761). The URL is not evidence of public availability. Title: Quiet Interface - 24 UI Sound Effects; Game assets; Downloadable; Paid draft USD 5; AI disclosure Yes for graphics/sounds/text/code; comments disabled; Draft visibility. Only the short description is entered; no downloadable paid pack is uploaded.
+
+Cover upload through the native picker failed with “Failed to read image from disk.” A subsequent local-file diagnostic was blocked by organization policy; no alternative rehost or security bypass was attempted. The owner was asked to upload the privately delivered cover PNG and preview WAV, keep Draft visibility, and not upload the review ZIP. Successful owner upload is not yet verified.
+
+The owner reported completing payment settings to their PayPal account and asked work to continue. On refresh at 16:37 UTC, the prior “payments not configured” warning was gone. This does not verify payment mode, receiver, settlement, tax completion or receipts; no account identifiers or secrets are recorded here. Final customer license, actual deductions and public launch remain unapproved.
+
+This supersedes earlier account-not-created assertions, not their historical evidence. PR #3 merged at `efd96c1855da125c949dee2de2359a7ad911df35`. Only the six-sample listening acceptance is verified; full-pack listening remains unverified. Audio, art and generator files remain private and ignored. No sales or runtime claims are added.
