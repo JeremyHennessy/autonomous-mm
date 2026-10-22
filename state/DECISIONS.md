@@ -12,5 +12,10 @@
 - Provider choice: provisional shortlist only; benchmark quality and verify account-level free eligibility before choosing. See [runbook](../operations/RUNBOOK.md).
 - Stop condition: any billing, credentials, rights or persistence uncertainty blocks execution rather than enabling a paid fallback.
 
-## Pending commercial decision
-No business has yet been selected in this checkpoint. Add evidence-backed ranking, primary experiment, price hypothesis, conversion criterion and abandonment threshold after research review. Forecasts must remain separate from measured outcomes.
+## D003 — 2026-10-22 — Select a USD 99 reproducible CSV pilot
+- Decision: test a fixed-scope original-preserving CSV repair deliverable, with exception report and reusable script, rather than build an app first.
+- Evidence: [initial opportunity screen](../research/opportunities/initial-screen.md) compares 11 distinct approaches; adjacent demand and pricing support testing, not a guaranteed sale. Distribution remains the weakest assumption and no current qualified buyer/free channel is established.
+- Preparation: synthetic demonstration and tests pending; [plan](../experiments/001-demand-test/PLAN.md) and [offer](../experiments/001-demand-test/OFFER-DRAFT.md) are not launched or sent.
+- Gate: approved eligible channel, identity and bounded responses; separate receiver/settlement and contract/data-handling authority before accepting a job. $0 spending cap unchanged.
+- Stop/review: ten eligible offers with no qualified response, or three qualified conversations without willingness to pay USD 99; if two deliveries exceed two operator hours, reduce scope or reprice.
+- Success: one delivered, accepted pilot with settled receipt and attributable costs reconciled within the experiment window, subject to payout holds. Forecasts are not measured profit.

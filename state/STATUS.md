@@ -10,7 +10,7 @@ As of 2026-10-22 UTC. Initialization checkpoint; not evidence of a live business
 - Spending cap: $0. No trading, paid services, external marketing, credential grants or deployment initiated by this bootstrap.
 
 ## Current objective
-Establish public-safe persistent records; independently compare commercial opportunities, select a primary path, and prepare the smallest real-demand test. Strategy and experiment remain pending evidence review, not owner preference selection.
+Selected first test: a USD 99 reproducible CSV repair pilot, following the [11-model opportunity screen](../research/opportunities/initial-screen.md). This is an unvalidated price and business hypothesis, not a validated revenue stream. Prepare a synthetic demonstration and bounded buyer test; see [experiment plan](../experiments/001-demand-test/PLAN.md) and [unsent offer draft](../experiments/001-demand-test/OFFER-DRAFT.md).
 
 ## Runtime
 - Architecture: proposed in [RUNBOOK.md](../operations/RUNBOOK.md).
@@ -23,8 +23,8 @@ Establish public-safe persistent records; independently compare commercial oppor
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
 ## Next authorized actions
-1. Finish opportunity evidence and select a falsifiable commercial test.
-2. Publish a bounded action plan and prepare its sample deliverable without external outreach.
+1. Complete and test the synthetic delivery sample; no customer data or live processing.
+2. Use the experiment plan's 24-hour/72-hour/7-day/30-day milestones; these are intended actions, not scheduled jobs. Qualify a usable commercial channel and request only missing channel/identity/message authority.
 3. Review architecture and documentation; do not activate cloud operation until its separate gates pass.
 
 ## Blocking dependencies
