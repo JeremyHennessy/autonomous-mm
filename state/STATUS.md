@@ -1,6 +1,6 @@
 # Operating checkpoint
 
-As of 2026-10-22 22:19 UTC. Listing published; no verified customer sale or autonomous runtime.
+As of 2026-10-22 22:53 UTC. Listing published; no verified customer sale or autonomous runtime.
 
 ## Verified
 - GitHub connector confirms `JeremyHennessy/autonomous-mm` is public, active, and defaults to `main`.
@@ -12,9 +12,14 @@ As of 2026-10-22 22:19 UTC. Listing published; no verified customer sale or auto
 - [PR #3](https://github.com/JeremyHennessy/autonomous-mm/pull/3) merged at `efd96c1855da125c949dee2de2359a7ad911df35`; main independently verified at this commit for this checkpoint.
 - Spending cap: $0. No trading, paid services, external marketing, credential grants or deployment initiated by this bootstrap.
 
+## Forecasting setup checkpoint — 2026-10-22 22:53 UTC
+Human account activation is complete. Exactly one bot, [HalifaxSmallHoursBot](https://www.metaculus.com/accounts/profile/311063/), was created and publicly verified with 0 predictions and 0 comments at this checkpoint. The bot key has not been read, copied, stored or used. An independent rerun of the private offline harness passed 18 tests at 22:34 UTC; this establishes neither live integration nor forecasting accuracy, revenue or scheduled autonomy.
+
+Google project/key creation and storage of both service keys in GitHub Actions secrets await new specific user approval. No paid access or forecast submissions are authorized. Next: resolve these narrowly scoped access approvals before any integration; preserve free-only cost gates and separately verify a bounded manual run before considering scheduling. No runtime is activated. Private identity, email, credentials and harness files are not published here.
+
 ## Current strategy — 2026-10-22 22:19 UTC
 Prioritize existing markets or reward systems that can be operated and iterated without recruiting a new customer/user audience. Catalogue/referral services, Upwork/client services and audience-building experiments are no longer the primary strategy. Earlier research remains historical evidence, not an active instruction to sell those offers. Only conditional forecasting-feasibility research is selected now: no profitable system, zero-owner-input operation or quick-cash route is established. No new spending is approved; capability, eligibility, cost and permission gates remain open.
-See the [current strategy and official-source gates](../research/opportunities/revenue-lab-60.md). Forecasting is feasibility research only; no signup, key, submission or runtime has been initiated by this checkpoint. Security bounty work needs separately approved named scope; asset royalties are secondary and GPU hosting is capital-conditional.
+See the [current strategy and official-source gates](../research/opportunities/revenue-lab-60.md). Forecasting remains a conditional feasibility effort; the newer setup checkpoint above supersedes earlier no-account assertions, not the cost, capability or permission gates. Security bounty work needs separately approved named scope; asset royalties are secondary and GPU hosting is capital-conditional.
 
 ## Historical experiment objective
 The owner declined the CSV pilot on 2026-10-22. Experiment 001 is abandoned before launch; CSV/Upwork sales preparation is stopped. Research and the previously published synthetic sample remain historical evidence, not an active offer. The audio product is published for a bounded sales test, not a validated business. The [inbound candidate evaluation](../research/opportunities/inbound-pivot.md) compares self-serve assets, templates and an Actor. Six original procedural UI sounds are complete offline. Reported technical checks passed, and WAV hashes matched across two independent processes. A 4.31-second audition was delivered privately to the owner for a harshness/click check; the owner replied “seems fine,” providing basic listening acceptance of the six samples. This is not independent professional audio QA or commercial validation. The bounded 24-cue local pack is now complete: six groups, 48 kHz mono 16-bit WAV, and an 18.555-second preview. Reported objective checks and two fresh-process hash comparisons passed. The full pack has not been listened to by the assistant or owner. Preview, cover and review ZIP were delivered privately; no audio, generator or cover is published here. See the [experiment plan](../experiments/002-ui-audio/PLAN.md) and [historical listing draft](../experiments/002-ui-audio/LISTING-DRAFT.md).
@@ -47,8 +52,8 @@ Post-review checkpoint, 2026-10-22 20:58 UTC: F03 is ON HOLD for prospecting. A 
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
 ## Next objective and boundaries
-1. Assess conditional forecasting feasibility against actual eligibility, capability, cost and permissions. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
-2. Zero new spend approved. No signup, keys, submissions, deployment, trading or contracts without the required authorization. No new runtime or continuous AI operation is verified.
+1. Resolve specific pending integration-access approvals described above, then assess conditional forecasting feasibility against actual eligibility, capability and free-only cost evidence. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
+2. Zero new spend approved. No further account/key actions, submissions, deployment, trading or contracts without the required authorization. No new runtime or continuous AI operation is verified.
 3. Retain historical research and live-artifact records without treating old plans as current authority. Named security-testing scope is a separate gate.
 
 ## Remaining uncertainty

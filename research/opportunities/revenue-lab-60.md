@@ -2,6 +2,11 @@
 
 2026-10-22. Public-safe research and synthetic-test checkpoint. All 60 proposed offers have unvalidated paid demand. This document authorizes no outreach, commercial launch, spending, account actions, production imports or autonomous runtime.
 
+## Forecasting setup checkpoint — 2026-10-22 22:53 UTC
+Human account activation is complete. Exactly one bot, [HalifaxSmallHoursBot](https://www.metaculus.com/accounts/profile/311063/), was created and publicly verified with 0 predictions and 0 comments at this checkpoint. The bot key has not been read, copied, stored or used. An independent rerun of the private offline harness passed 18 tests at 22:34 UTC; this establishes neither live integration nor forecasting accuracy, revenue or scheduled autonomy.
+
+Google project/key creation and storage of both service keys in GitHub Actions secrets await new specific user approval. No paid access or forecast submissions are authorized. Next: resolve these narrowly scoped access approvals before any integration; preserve free-only cost gates and separately verify a bounded manual run before considering scheduling. No runtime is activated. Private identity, email, credentials and harness files are not published here.
+
 ## Current strategy — 2026-10-22 22:19 UTC
 Prioritize existing markets or reward systems that can be operated and iterated without recruiting a new customer/user audience. Catalogue/referral services, Upwork/client services and audience-building experiments are no longer the primary strategy. Earlier research remains historical evidence, not an active instruction to sell those offers. Only conditional forecasting-feasibility research is selected now: no profitable system, zero-owner-input operation or quick-cash route is established. No new spending is approved; capability, eligibility, cost and permission gates remain open.
 
@@ -10,7 +15,7 @@ The [Fall 2026 FutureEval announcement](https://www.metaculus.com/notebooks/4561
 
 The [official resources](https://www.metaculus.com/notebooks/38928/ai-benchmark-resources/) permit autonomous bots but require a human-created parent account, human identification and potentially a code-review call. They report $50–$1,000+ seasonal costs, not our quote or spending approval. Prizes follow season resolution and winner verification, not immediate work. At 2026-10-22 22:26 UTC, read-only browser inspection of the [official participation form](https://docs.google.com/forms/d/e/1FAIpQLSe6WHsp8nnKe-PXNWv4k0-lLNaEjtlJKL7jbCTHYp2FIEjh3g/viewform) confirmed that Fall-season credit requests are closed, with reopening planned before the next season. No closure date or free-credit entitlement is inferred; the form was not submitted. Platform rules also prohibit AI-initiated support communications and access-block workarounds. Thus this candidate is not fully zero-owner-input or verified zero-cost.
 
-Next gate: bounded read-only feasibility review of eligible participation, a permitted evaluation method, real free-only inference availability and performance/cost evidence. Do not create an account, request/generate keys, submit forecasts, deploy a bot, commit spending or promise prizes as part of this review.
+Earlier 22:19 UTC gate (setup status superseded by the checkpoint above): bounded read-only feasibility review of eligible participation, a permitted evaluation method, real free-only inference availability and performance/cost evidence. Do not create an account, request/generate keys, submit forecasts, deploy a bot, commit spending or promise prizes as part of this review.
 
 ### Alternatives and boundaries
 - Security bounties are separate and require explicit named authorized scope before any testing. [Reward guidelines](https://bounty.github.com/rewards.html) are discretionary, not guaranteed earnings; [report-quality requirements](https://bounty.github.com/report-quality) require reproducible demonstrated impact; [engagement rules](https://bounty.github.com/rules) constrain targets and conduct. A public program is not blanket authority to probe systems.
