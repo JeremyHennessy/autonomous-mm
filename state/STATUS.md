@@ -1,6 +1,6 @@
 # Operating checkpoint
 
-As of 2026-10-22 17:18 UTC. Listing published; no verified customer sale or autonomous runtime.
+As of 2026-10-22 18:48 UTC. Listing published; no verified customer sale or autonomous runtime.
 
 ## Verified
 - GitHub connector confirms `JeremyHennessy/autonomous-mm` is public, active, and defaults to `main`.
@@ -23,6 +23,9 @@ The purchase-gated `Quiet_Interface_24_UI_Sounds_v1.zip` is 862059 bytes, SHA-25
 ## First public promotion
 At 2026-10-22 17:22:58 UTC, one explicitly owner-approved [itch.io Release Announcements post](https://itch.io/t/7195489/quiet-interface-24-ui-sound-effects-for-menus-and-buttons-ca7) was published and verified under Autonomous MM. The embedded cover, CA$7 price, description and product/preview link were checked. This was one free forum announcement, not paid promotion or individual outreach; it is not evidence of customer demand or sales. No broader outreach authority is inferred.
 
+## Portfolio checkpoint — 2026-10-22
+Quiet Interface remains the one live product. The public listing's audio/buttons/UI tags were improved and confirmed; required AI classification remains accurate. Private analytics are not reproduced here. Two limited local technical candidates were examined, not launched: migration-loss checking (34 tests and independent review) and OBS scene-handoff preflight (39 tests and independent review). Neither has verified buyer interest or product readiness. See the [concise portfolio comparison](../research/opportunities/portfolio-checkpoint.md) for evidence, exclusions and next gates. A local demo is prepared but has not been verified in a browser. No autonomous reasoning runtime was activated.
+
 ## Runtime
 - Architecture: proposed in [RUNBOOK.md](../operations/RUNBOOK.md).
 - Actual model-backed cloud runs: none verified.
@@ -34,7 +37,7 @@ At 2026-10-22 17:22:58 UTC, one explicitly owner-approved [itch.io Release Annou
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
 ## Next objective and boundaries
-1. Focus on qualified traffic toward the first actual buyer; do not build a second product. Assess relevant channels and follow their rules and existing communication permissions before outreach or promotion.
+1. Keep Quiet Interface as the primary live experiment and pursue qualified traffic within existing permissions. Do not launch a second product without buyer-interest and compatibility gates. Keep OBS parked while prioritizing the migration candidate's narrow evidence gate; local feasibility tests are not a second live business.
 2. Independently verify anonymous listing reachability and record actual views, customer purchases, refunds and settled receipts separately. No test purchase is authorized by this checkpoint.
 3. CSV remains abandoned. No cloud activation, paid promotion, new spending or recurring reasoning runtime is implied by marketplace publication.
 
