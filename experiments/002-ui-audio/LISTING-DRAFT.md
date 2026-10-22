@@ -1,6 +1,6 @@
 # Listing draft: Quiet Interface — 24 UI Sound Effects
 
-Not published. Preliminary price assumptions are superseded; final price and currency require confirmation before launch. Final contents, seller identity, permission text, platform tags and fees must be checked and approved before use.
+Historical working draft, not the authoritative live copy or final customer license. The listing was published at CA$7 on 2026-10-22; see the experiment PLAN for verification and limits. Required AI classification remains, but the longer provenance sales paragraph below was removed from the live description. Final contents, seller identity, permission text, platform tags and fees must be checked and approved before use.
 
 ## Proposed customer copy
 
@@ -31,6 +31,6 @@ Do not promise legal exclusivity or copyright eligibility in every jurisdiction.
 
 ## Platform presentation checks
 
-Use accurate audio/user-interface tags and the platform's current AI disclosure controls. Upload actual files and a preview, not only external links. Do not publish an empty page for search placement. Create one product page only; do not duplicate/reskin pages for visibility. No public listing has been created.
+Use accurate audio/user-interface tags and the platform's current AI disclosure controls. Upload actual files and a preview, not only external links. Do not publish an empty page for search placement. Create one product page only; do not duplicate/reskin pages for visibility. A public listing has since been created; this paragraph preserves the original preparation checklist.
 
 Official references checked 2026-10-22: [quality guidelines](https://itch.io/docs/creators/quality-guidelines), [pricing](https://itch.io/docs/creators/pricing), [publisher terms](https://itch.io/docs/legal/terms), [payments](https://itch.io/docs/creators/payments).
