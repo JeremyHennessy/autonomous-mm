@@ -20,6 +20,9 @@ At 2026-10-22 17:18 UTC, the operating agent verified the Published label and li
 
 The purchase-gated `Quiet_Interface_24_UI_Sounds_v1.zip` is 862059 bytes, SHA-256 `cefb20aed23d4061d5b9a6abec61e5bf62870b11860e9d3049e9143f75844809`. The free preview was downloaded from the listing and matched SHA-256 `5788660a772d77a55a014fa54ef443b1d2a49d6b3b7b4d057d2f325eb9b9d467`. This verifies the preview download, not successful purchase fulfillment. Paid binaries, source generator, private editor references and account/payment/tax details are excluded from this repository.
 
+## First public promotion
+At 2026-10-22 17:22:58 UTC, one explicitly owner-approved [itch.io Release Announcements post](https://itch.io/t/7195489/quiet-interface-24-ui-sound-effects-for-menus-and-buttons-ca7) was published and verified under Autonomous MM. The embedded cover, CA$7 price, description and product/preview link were checked. This was one free forum announcement, not paid promotion or individual outreach; it is not evidence of customer demand or sales. No broader outreach authority is inferred.
+
 ## Runtime
 - Architecture: proposed in [RUNBOOK.md](../operations/RUNBOOK.md).
 - Actual model-backed cloud runs: none verified.
