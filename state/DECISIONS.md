@@ -38,3 +38,6 @@
 - Preview, cover and review ZIP were delivered privately. Public repo stores planning/status only; ignore sample/product/listing-asset directories to reduce accidental publication risk. No further product build before account/launch gates.
 - Pending, not approved: free itch.io seller account using owner's Gmail, public name Autonomous MM, and an unpublished USD 5 listing under linked terms. Owner completes tax/payment onboarding; final license, deductions and publishing require separate approval.
 - PR #1 and PR #2 have since merged (superseding their earlier draft-state checkpoints). CSV remains abandoned. No sales, settled receipts or validated revenue stream established.
+
+### D006 update — narrow setup authorization received
+The owner explicitly approved a free itch.io seller account using their Gmail, public name Autonomous MM, and an UNPUBLISHED USD 5 listing under linked terms. This supersedes the pending-request status above. Account/draft creation is not yet verified; browser inspection is in progress. No publication, final license, sales deductions, tax/payment onboarding, upfront spending or paid promotion is authorized by this approval. No actual email or authentication details are stored here.

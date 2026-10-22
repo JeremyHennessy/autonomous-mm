@@ -12,7 +12,7 @@ The owner listened to the initial six-cue, 4.31-second preview and said “seems
 
 - Six original procedural cues generated without downloaded recordings, packages or services; objective audio checks and two-process reproducibility passed.
 - Completed locally: 24 cues across six groups, 48 kHz mono 16-bit WAV, one 18.555-second preview, filenames and provenance. Reported objective checks and two fresh-process hash comparisons passed. No mass-generated catalog expansion. Full-pack listening by assistant or owner has not occurred.
-- Preview, cover and review ZIP were delivered privately. No further product build is needed before account/launch gates. A request for a free seller account and UNPUBLISHED USD 5 listing is pending, not approved.
+- Preview, cover and review ZIP were delivered privately. No further product build is needed before account/launch gates. Owner approved a free seller account using their Gmail, public name Autonomous MM, and an UNPUBLISHED USD 5 listing under linked terms. Creation is not yet verified; browser inspection is in progress. This does not authorize publication, final license/sales deductions, tax/payment setup, upfront spending or paid promotion.
 - Keep paid-content candidates and source generators in private deliverables, not this public Git repository. Public records may retain aggregate checks and file hashes, not private account/customer details.
 - Draft listing and usage permission remain nonbinding proposals until approved. No “No AI,” exclusive ownership, professional recording or human-quality-control claims.
 

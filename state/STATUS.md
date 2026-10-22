@@ -26,14 +26,14 @@ The owner declined the CSV pilot on 2026-10-22. Experiment 001 is abandoned befo
 
 ## Next authorized actions
 1. Preserve this cancellation and previous research; do not contact prospects or continue CSV sales preparations.
-2. Await the specific pending permission to create a free itch.io seller account using the owner's Gmail, public name Autonomous MM, and prepare an UNPUBLISHED USD 5 listing under linked terms. No reply or approval is recorded. No further product build is needed before account/launch gates.
+2. Owner approved creating a free itch.io seller account using their Gmail, public name Autonomous MM, and preparing an UNPUBLISHED USD 5 listing under linked terms. Account and draft are not yet created; browser inspection is in progress. No further product build is needed before account/launch gates.
 3. Maintain this resumable checkpoint following the verified PR #1 merge. No cloud activation or recurrence.
 
 ## Blocking dependencies
-No active sales experiment is launched. Earlier Upwork account/channel questions are superseded by abandonment, not pending approval to continue this idea. No platform account, public asset/listing publication, spending or seller/payment setup is authorized. Candidate audio binaries remain outside the public repository. Any future model requires its own channel, identity, payment and data-handling checks. Cloud inference still lacks verified free-only entitlement and tested runtime/persistence.
+No active sales experiment is launched. Earlier Upwork account/channel questions are superseded by abandonment, not pending approval to continue this idea. Only the free seller-account and unpublished draft setup described above is authorized. Public asset/listing publication, spending, final license/sales deductions and tax/payment setup remain outside that approval. Candidate audio binaries remain outside the public repository. Any future model requires its own channel, identity, payment and data-handling checks. Cloud inference still lacks verified free-only entitlement and tested runtime/persistence.
 
 ## Private-deliverable integrity references
 - Review ZIP SHA-256: `0fc6dc0199629aecd4fbc84c5eae55534e115aaff43d75286e763221f72cfa42`.
 - Preview SHA-256: `5788660a772d77a55a014fa54ef443b1d2a49d6b3b7b4d057d2f325eb9b9d467`.
 
-These hashes identify privately delivered files, not public downloads or evidence of sales. Owner handles tax/payment onboarding privately. Final license, sales deductions and publication require separate approval; the pending unpublished-listing request does not authorize launch.
+These hashes identify privately delivered files, not public downloads or evidence of sales. Owner handles tax/payment onboarding privately. Final license, sales deductions and publication require separate approval; the approved unpublished-listing setup does not authorize launch.
