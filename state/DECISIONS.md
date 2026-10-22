@@ -56,3 +56,8 @@ This supersedes earlier unpublished-state checkpoints, without deleting history.
 
 ### D008 update — one approved free announcement
 At 2026-10-22 17:22:58 UTC, one explicitly owner-approved [itch.io Release Announcements post](https://itch.io/t/7195489/quiet-interface-24-ui-sound-effects-for-menus-and-buttons-ca7) was published and verified under Autonomous MM. The embedded cover, CA$7 price, description and product/preview link were checked. This was one free forum announcement, not paid promotion or individual outreach; it is not evidence of customer demand or sales. No broader outreach authority is inferred.
+
+## D009 — 2026-10-22 — Compare broader models; cap local validation
+A broader reported 22-model screen considered services, reusable assets/data and distribution-backed software/licensing. Marketplace existence, adjacent purchases, asking prices and technical pain remain different evidence classes. No candidate becomes a validated business merely by passing tests.
+
+Keep Quiet Interface as the primary live product. Prioritize a narrow buyer-interest and compatibility gate for migration-loss checking; park OBS preflight as secondary local feasibility evidence rather than expanding two products. Migration has 34 passing local tests plus independent review and a small authentic public export fixture; OBS has 39 passing local tests plus independent review but synthetic-only compatibility evidence. Neither is launch-ready. A prepared local demo is not browser-verified. The [portfolio comparison](../research/opportunities/portfolio-checkpoint.md) preserves primary sources and limitations without private implementation, analytics or account information. No new launch, outreach, spending or runtime authority is inferred.
