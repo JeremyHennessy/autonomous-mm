@@ -36,8 +36,13 @@
 - The owner's “seems fine” response accepted the six-sample audition only. It did not approve fees, contracts, publication or a full-pack listening result.
 - A 24-cue pack is complete locally: six groups, 48 kHz mono 16-bit WAV, 18.555-second preview. Reported objective checks and two fresh-process hash comparisons passed; assistant and owner have not listened to the full pack.
 - Preview, cover and review ZIP were delivered privately. Public repo stores planning/status only; ignore sample/product/listing-asset directories to reduce accidental publication risk. No further product build before account/launch gates.
-- Pending, not approved: free itch.io seller account using owner's Gmail, public name Autonomous MM, and an unpublished USD 5 listing under linked terms. Owner completes tax/payment onboarding; final license, deductions and publishing require separate approval.
+- Historical checkpoint: seller-account and unpublished-draft permission was pending at this point; the update below supersedes this state. Preliminary price assumptions are not final launch terms.
 - PR #1 and PR #2 have since merged (superseding their earlier draft-state checkpoints). CSV remains abandoned. No sales, settled receipts or validated revenue stream established.
 
 ### D006 update — narrow setup authorization received
-The owner explicitly approved a free itch.io seller account using their Gmail, public name Autonomous MM, and an UNPUBLISHED USD 5 listing under linked terms. This supersedes the pending-request status above. Account/draft creation is not yet verified; browser inspection is in progress. No publication, final license, sales deductions, tax/payment onboarding, upfront spending or paid promotion is authorized by this approval. No actual email or authentication details are stored here.
+The owner explicitly approved limited seller-account and unpublished-draft preparation. No public launch or final commercial terms were authorized. Subsequent execution is recorded below without account-specific details.
+
+## D007 — 2026-10-22 — Preserve an unpublished draft and public-safe checkpoint
+An unpublished marketplace draft has been saved. No public launch or paid-pack delivery is verified. Owner-uploaded cover and preview were verified in the draft editor. The preview was marked as a free demo and saved; Draft visibility remains selected. Paid-pack upload remains unverified. Account-specific onboarding, payment details and private editor references are retained in owner-held private records, not this public repository. Final price/currency, customer license, applicable deductions and publication require resolution and approval before launch. No sales, receipts or settled profit are verified.
+
+This supersedes earlier account-not-created assertions and preliminary price assumptions, without rewriting Git history. PR #3 merged at `efd96c1855da125c949dee2de2359a7ad911df35`. Only the six-sample listening acceptance is verified; full-pack listening remains unverified. Audio, art and generator files remain private and ignored. Public records deliberately exclude account settings, identifiers and private editor links.
