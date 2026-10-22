@@ -31,3 +31,10 @@
 - Evidence: [candidate evaluation](../research/opportunities/inbound-pivot.md) cites adjacent buyer reports and current marketplace constraints, not verified demand for this candidate.
 - Gate: inspect technical measurements and genuine listening capability. Numerical tests alone cannot establish audible quality. Stop or reconsider if the quality gate fails or listening cannot be verified.
 - Limits: no audio binaries in this public PR, account setup, publication, seller commitments, spending, outreach or payment configuration. CSV remains abandoned; no replacement revenue stream is validated.
+
+## D006 — 2026-10-22 — Complete bounded local audio preparation; stop at account gates
+- The owner's “seems fine” response accepted the six-sample audition only. It did not approve fees, contracts, publication or a full-pack listening result.
+- A 24-cue pack is complete locally: six groups, 48 kHz mono 16-bit WAV, 18.555-second preview. Reported objective checks and two fresh-process hash comparisons passed; assistant and owner have not listened to the full pack.
+- Preview, cover and review ZIP were delivered privately. Public repo stores planning/status only; ignore sample/product/listing-asset directories to reduce accidental publication risk. No further product build before account/launch gates.
+- Pending, not approved: free itch.io seller account using owner's Gmail, public name Autonomous MM, and an unpublished USD 5 listing under linked terms. Owner completes tax/payment onboarding; final license, deductions and publishing require separate approval.
+- PR #1 and PR #2 have since merged (superseding their earlier draft-state checkpoints). CSV remains abandoned. No sales, settled receipts or validated revenue stream established.
