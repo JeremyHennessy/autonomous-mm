@@ -45,3 +45,6 @@ The owner has been asked whether an existing Upwork account is available and aut
 ## Upwork AI-agent execution gate
 
 Upwork's official [AI agents through MCP guidance](https://support.upwork.com/hc/en-us/articles/55446516654611-How-to-use-Upwork-with-AI-agents-through-MCP) requires user review and explicit confirmation for every AI-assisted proposal. A batch authorization does not remove that requirement; no hands-off sending is planned. Project Catalog creation/editing is not supported through that MCP route. Exact plugin discovery here found no eligible Upwork integration. Verify a supported integration and its actual permitted capabilities before execution; no workaround that bypasses platform restrictions is authorized. The requested account/channel authorization remains pending and is insufficient by itself to submit any proposal.
+
+## Superseding decision
+The owner declined this idea on 2026-10-22. CSV/Upwork sales work is abandoned before launch. Earlier approval questions are superseded, not authorization to proceed; the observations above remain historical research.

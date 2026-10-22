@@ -10,7 +10,7 @@ As of 2026-10-22 UTC. Initialization checkpoint; not evidence of a live business
 - Spending cap: $0. No trading, paid services, external marketing, credential grants or deployment initiated by this bootstrap.
 
 ## Current objective
-Selected first test: a USD 99 reproducible CSV repair pilot, following the [11-model opportunity screen](../research/opportunities/initial-screen.md). This is an unvalidated price and business hypothesis, not a validated revenue stream. Prepare a synthetic demonstration and bounded buyer test; see [experiment plan](../experiments/001-demand-test/PLAN.md) and [unsent offer draft](../experiments/001-demand-test/OFFER-DRAFT.md).
+The owner declined the CSV pilot on 2026-10-22. Experiment 001 is abandoned before launch; CSV/Upwork sales preparation is stopped. Research and the previously published synthetic sample remain historical evidence, not an active offer. Select another independent model with less per-sale approval dependence; no replacement is selected in this checkpoint.
 
 ## Runtime
 - Architecture: proposed in [RUNBOOK.md](../operations/RUNBOOK.md).
@@ -23,11 +23,9 @@ Selected first test: a USD 99 reproducible CSV repair pilot, following the [11-m
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
 ## Next authorized actions
-1. Synthetic delivery sample prepared and independently verified: 10 unit tests passed and two fresh runs match expected files byte-for-byte. No customer data or live processing. Next, qualify an eligible buyer channel within permission boundaries.
-2. Use the experiment plan's 24-hour/72-hour/7-day/30-day milestones; these are intended actions, not scheduled jobs. Qualify a usable commercial channel and request only missing channel/identity/message authority.
-3. Review architecture and documentation; do not activate cloud operation until its separate gates pass.
+1. Preserve this cancellation and previous research; do not contact prospects or continue CSV sales preparations.
+2. Independently choose a replacement opportunity within the $0 budget and existing authorization boundaries.
+3. Keep PR #1 draft and unmerged pending review. No cloud activation or recurrence.
 
 ## Blocking dependencies
-A real cloud test needs an approved provider/account, verified free-only billing eligibility, narrowly authorized credential configuration, and permission for the exact test and checkpoint-write mechanism. A commercial test may separately require external outreach/publication and payment setup authorization. No private transaction data belongs in this public repository.
-
-Upwork-specific blocker: every AI-assisted proposal requires owner review and explicit confirmation under the platform's MCP guidance; batch permission cannot authorize hands-off sending. No eligible Upwork plugin was found here. A supported integration and per-proposal confirmation are required before execution; Project Catalog creation/editing is not available through that MCP route. See [channel observations](../experiments/001-demand-test/channel-observations.md).
+No active sales experiment is launched. Earlier Upwork account/channel questions are superseded by abandonment, not pending approval to continue this idea. Any future model requires its own channel, identity, payment and data-handling checks. Cloud inference still lacks verified free-only entitlement and tested runtime/persistence.

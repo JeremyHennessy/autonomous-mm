@@ -1,6 +1,6 @@
 # Draft only: USD 99 CSV repair pilot
 
-Not sent, posted or accepted. Publishing this planning document in the operational repo is not a live customer offer. An authorized account, sender identity, response channel and final terms are required before commercial use.
+Abandoned before launch on 2026-10-22. Historical draft only; do not use for outreach. Not sent, posted or accepted. Publishing this planning document in the operational repo is not a live customer offer. An authorized account, sender identity, response channel and final terms are required before commercial use.
 
 ## Proposed listing copy
 

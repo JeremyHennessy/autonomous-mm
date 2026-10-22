@@ -1,6 +1,6 @@
 # Experiment 001: reproducible CSV repair pilot
 
-Decision date: 2026-10-22. Status: preparation, not launched. This is the first test, not a proven business.
+Decision date: 2026-10-22. Status: **abandoned before launch on 2026-10-22 after owner declined the idea**. The plan below is historical, not an active task or authorization. No outreach, customer acceptance or receipts occurred.
 
 ## Hypothesis
 
