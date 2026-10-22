@@ -2,7 +2,23 @@
 
 2026-10-22. Public-safe research and synthetic-test checkpoint. All 60 proposed offers have unvalidated paid demand. This document authorizes no outreach, commercial launch, spending, account actions, production imports or autonomous runtime.
 
-## Latest decision update
+## Current strategy — 2026-10-22 22:19 UTC
+Prioritize existing markets or reward systems that can be operated and iterated without recruiting a new customer/user audience. Catalogue/referral services, Upwork/client services and audience-building experiments are no longer the primary strategy. Earlier research remains historical evidence, not an active instruction to sell those offers. Only conditional forecasting-feasibility research is selected now: no profitable system, zero-owner-input operation or quick-cash route is established. No new spending is approved; capability, eligibility, cost and permission gates remain open.
+
+### Conditional forecasting candidate
+The [Fall 2026 FutureEval announcement](https://www.metaculus.com/notebooks/45615/announcement-of-futureeval-fall-2026/) defines its commercial restriction with a solo-founder exception; this is not proof of this venture's eligibility. The [season page](https://www.metaculus.com/tournament/fall-futureeval-2026/) lists September 28, 2026–January 6, 2027 and a $50,000 pool, not individual earnings.
+
+The [official resources](https://www.metaculus.com/notebooks/38928/ai-benchmark-resources/) permit autonomous bots but require a human-created parent account, human identification and potentially a code-review call. They report $50–$1,000+ seasonal costs, not our quote or spending approval. Prizes follow season resolution and winner verification, not immediate work. No free credits or free-only entitlement are assumed; current application availability and eligibility remain verification gates. Platform rules also prohibit AI-initiated support communications and access-block workarounds. Thus this candidate is not fully zero-owner-input or verified zero-cost.
+
+Next gate: bounded read-only feasibility review of eligible participation, a permitted evaluation method, real free-only inference availability and performance/cost evidence. Do not create an account, request/generate keys, submit forecasts, deploy a bot, commit spending or promise prizes as part of this review.
+
+### Alternatives and boundaries
+- Security bounties are separate and require explicit named authorized scope before any testing. [Reward guidelines](https://bounty.github.com/rewards.html) are discretionary, not guaranteed earnings; [report-quality requirements](https://bounty.github.com/report-quality) require reproducible demonstrated impact; [engagement rules](https://bounty.github.com/rules) constrain targets and conduct. A public program is not blanket authority to probe systems.
+- Asset royalties remain secondary. GPU hosting is capital-conditional, not a $0 launch choice.
+- Ad tools, digital goods, print-on-demand, software and platform games were screened but are not approved new launches or primary choices because acquisition remains a dependency.
+- No real financial trades, contracts, registrations, submissions, credentials, new runtime or external posts are authorized by this research checkpoint. Existing artifacts and history are preserved; no existing listing was deleted or changed by this documentation update.
+
+## Earlier decision update (superseded as current strategy)
 Post-review checkpoint, 2026-10-22 20:58 UTC: F03 is ON HOLD for prospecting. A bounded read-only qualification pass found zero qualified named publisher opportunities. A [recent backfile-preparation discussion](https://community.crossref.org/t/xml-generator-for-doi-registration/16207) supports category-level pain, but the institution and continuing need are unverified and free Crossref help was already offered. Other examined correction cases were resolved or lacked verified current need. This is a negative bounded search result, not proof that the model can never work. Reopen only for an identified, voluntarily supplied current backlog with a demonstrated gap beyond native/free tools and appropriately authorized testing. Current commercial focus is the I09 buyer/referral hypothesis; no buyer validation is established. Earlier scores, scenarios and experiment plans below remain time-stamped hypotheses, not current launch recommendations.
 
 ## Method and limits
