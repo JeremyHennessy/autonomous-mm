@@ -2,6 +2,9 @@
 
 2026-10-22. Public-safe research and synthetic-test checkpoint. All 60 proposed offers have unvalidated paid demand. This document authorizes no outreach, commercial launch, spending, account actions, production imports or autonomous runtime.
 
+## Latest decision update
+Post-review checkpoint, 2026-10-22 20:58 UTC: F03 is ON HOLD for prospecting. A bounded read-only qualification pass found zero qualified named publisher opportunities. A [recent backfile-preparation discussion](https://community.crossref.org/t/xml-generator-for-doi-registration/16207) supports category-level pain, but the institution and continuing need are unverified and free Crossref help was already offered. Other examined correction cases were resolved or lacked verified current need. This is a negative bounded search result, not proof that the model can never work. Reopen only for an identified, voluntarily supplied current backlog with a demonstrated gap beyond native/free tools and appropriately authorized testing. Current commercial focus is the I09 buyer/referral hypothesis; no buyer validation is established. Earlier scores, scenarios and experiment plans below remain time-stamped hypotheses, not current launch recommendations.
+
 ## Method and limits
 
 Screened shortlist with independent recalibration; not a global reranking of every candidate. Points are judgment, not probability. Raw research and independent scores are both preserved.
