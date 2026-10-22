@@ -23,7 +23,7 @@ Selected first test: a USD 99 reproducible CSV repair pilot, following the [11-m
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
 ## Next authorized actions
-1. Complete and test the synthetic delivery sample; no customer data or live processing.
+1. Synthetic delivery sample prepared and independently verified: 10 unit tests passed and two fresh runs match expected files byte-for-byte. No customer data or live processing. Next, qualify an eligible buyer channel within permission boundaries.
 2. Use the experiment plan's 24-hour/72-hour/7-day/30-day milestones; these are intended actions, not scheduled jobs. Qualify a usable commercial channel and request only missing channel/identity/message authority.
 3. Review architecture and documentation; do not activate cloud operation until its separate gates pass.
 

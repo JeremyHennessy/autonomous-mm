@@ -42,4 +42,4 @@ These are intended milestones, not scheduled jobs or guarantees of unattended wo
 
 ## Actual execution to date
 
-Research and channel checks completed. Synthetic delivery demo is being prepared. No outreach, customer acceptance, payment, refund, production data processing or external account setup has occurred in this experiment. Realized net profit is not yet computable from verified financial evidence.
+Research and channel checks completed. Synthetic delivery demo is prepared: 10 unit tests passed, and two independent fresh runs reproduced expected files byte-for-byte. No outreach, customer acceptance, payment, refund, production data processing or external account setup has occurred in this experiment. Realized net profit is not yet computable from verified financial evidence.

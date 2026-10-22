@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "synthetic_demo_notice": "Example fixture is synthetic, not client work; tool does not authenticate data.",
+  "source_sha256": "cb3c4bfce0292803f4ffdb84ec87e8cdb30e06fe096d705085aa8bdad003c178",
+  "config_sha256": "41ae18016aa38e4471e68a4f33ec534b44d4015aebd9c61c03e35ced7f7fc908",
+  "transformer_sha256": "38452d8dc9ff33906f2e0d6509a94455346de18c444c1024797b7c363fd77128",
+  "cleaned_sha256": "42d1be91362082fe8710a29df9598d2dc6c9f001fd8d56253523fd59992f54f4",
+  "counts": {
+    "input_records": 9,
+    "cleaned_records": 3,
+    "quarantined_records": 5,
+    "exact_duplicates_removed": 1,
+    "field_trims": 4
+  },
+  "record_numbering": "Logical CSV record number, header=1; not physical line number.",
+  "duplicate_definition": "Exact parsed full-row field equality BEFORE transformations, not key equality.",
+  "changes": [
+    {
+      "record": 2,
+      "field": "business_name",
+      "before": " Sample North ",
+      "after": "Sample North",
+      "rule": "trim_outer_whitespace"
+    },
+    {
+      "record": 2,
+      "field": "city",
+      "before": " Halifax ",
+      "after": "Halifax",
+      "rule": "trim_outer_whitespace"
+    },
+    {
+      "record": 10,
+      "field": "business_name",
+      "before": " Sample Harbour ",
+      "after": "Sample Harbour",
+      "rule": "trim_outer_whitespace"
+    },
+    {
+      "record": 10,
+      "field": "city",
+      "before": " Bedford ",
+      "after": "Bedford",
+      "rule": "trim_outer_whitespace"
+    }
+  ],
+  "duplicates": [
+    {
+      "record": 3,
+      "duplicate_of": 2
+    }
+  ],
+  "exceptions": [
+    {
+      "record": 5,
+      "reasons": [
+        "repeated_key_requires_resolution:account_id"
+      ],
+      "values": {
+        "account_id": "0003",
+        "business_name": "Sample West",
+        "city": "Halifax",
+        "renewal_date": "2026-10-30"
+      }
+    },
+    {
+      "record": 6,
+      "reasons": [
+        "repeated_key_requires_resolution:account_id"
+      ],
+      "values": {
+        "account_id": "0003",
+        "business_name": "Sample West Alternate",
+        "city": "Halifax",
+        "renewal_date": "2026-10-30"
+      }
+    },
+    {
+      "record": 7,
+      "reasons": [
+        "non_iso_date_requires_resolution:renewal_date"
+      ],
+      "values": {
+        "account_id": "0004",
+        "business_name": "Sample South",
+        "city": "Halifax",
+        "renewal_date": "01/02/2027"
+      }
+    },
+    {
+      "record": 8,
+      "reasons": [
+        "missing_required:business_name"
+      ],
+      "values": {
+        "account_id": "0005",
+        "business_name": "",
+        "city": "Bedford",
+        "renewal_date": "2026-11-20"
+      }
+    },
+    {
+      "record": 9,
+      "reasons": [
+        "spreadsheet_formula_or_control_risk:business_name"
+      ],
+      "values": {
+        "account_id": "0006",
+        "business_name": "=1+1",
+        "city": "Halifax",
+        "renewal_date": "2026-11-21"
+      }
+    }
+  ],
+  "formula_handling": "Risky rows withheld from cleaned.csv. Original input and JSON retain values; do not open original in a spreadsheet or export exceptions without safeguards."
+}
