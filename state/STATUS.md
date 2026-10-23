@@ -1,6 +1,6 @@
 # Operating checkpoint
 
-As of 2026-10-23 00:28 UTC. Listing published; no verified customer sale or autonomous runtime.
+As of 2026-10-23 00:51 UTC. Listing published; no verified customer sale or autonomous runtime.
 
 ## Verified
 - GitHub connector confirms `JeremyHennessy/autonomous-mm` is public, active, and defaults to `main`.
@@ -12,7 +12,14 @@ As of 2026-10-23 00:28 UTC. Listing published; no verified customer sale or auto
 - [PR #3](https://github.com/JeremyHennessy/autonomous-mm/pull/3) merged at `efd96c1855da125c949dee2de2359a7ad911df35`; main independently verified at this commit for this checkpoint.
 - Spending cap: $0. No trading, paid services, external marketing, credential grants or deployment initiated by this bootstrap.
 
-## Cloud test checkpoint — 2026-10-23 00:28 UTC
+## Diagnostic v2 checkpoint — 2026-10-23 00:51 UTC
+One separately approved diagnostic AI call resolved with HTTP 200 and reported 14 prompt tokens and 16 completion tokens. The returned response string failed the exact `4` acceptance criterion. Raw response text was not retained, so no causal diagnosis is supported. This is evidence of an actual provider response, not a passed smoke test, forecasting accuracy or a working autonomous agent.
+
+The persistent receipt was read back. Public and preview routes were verified off. No cron, forecasts, new credentials or earnings were produced. The first uncertain attempt remains preserved separately; v2 does not retroactively resolve it or authorize further calls. Billing totals and operational readiness remain unverified.
+
+The GitHub Security Lab CodeQL bounty is retired, not a current revenue opportunity: [official status](https://securitylab.github.com/bounties/) and [sunset notice](https://github.com/github/securitylab/discussions/828). This specific retirement does not assert that every GitHub security reward program is retired; named-scope permission remains required for any separate testing.
+
+## Historical first cloud test checkpoint — 2026-10-23 00:28 UTC
 Actual Cloudflare hosting and SQLite deployment were verified. This is infrastructure evidence, not successful AI reasoning or a scheduled autonomous runtime. An initial empty POST was rejected before model-attempt reservation. A narrow, offline-tested transport repair used the same ledger and authorization window.
 
 The repaired single provider attempt ended **uncertain**. A provider exception and a response-format mismatch cannot be distinguished because the implementation discarded the diagnostic detail. An independent status read confirmed the uncertain state. The one-attempt budget is consumed: no reset, rearm, retry or forecast was performed, and no successful AI inference or billing total is verified. Public and preview routes were verified off at 00:28:45 UTC; the schedule list was empty.
@@ -59,16 +66,16 @@ Post-review checkpoint, 2026-10-22 20:58 UTC: F03 is ON HOLD for prospecting. A 
 
 ## Runtime
 - Architecture: proposed in [RUNBOOK.md](../operations/RUNBOOK.md).
-- Actual model-backed cloud runs: none verified.
+- Actual provider response: diagnostic v2 returned HTTP 200 and token usage, but failed its exact-response criterion; no successful end-to-end autonomous reasoning run is verified.
 - Scheduler: not implemented or enabled.
-- Last successful model-backed cloud run: none verified. Hosting/SQLite deployment and an uncertain single provider attempt are recorded above. Next scheduled run: none.
+- Last successful acceptance-tested model-backed run: none. The initial uncertain attempt and v2 failed acceptance test are recorded above. Next scheduled run: none.
 - Persistence evidence: repository documentation plus deployed SQLite infrastructure; end-to-end autonomous checkpoint recovery is not proven.
 
 ## Financial state
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
 ## Next objective and boundaries
-1. Prepare an offline diagnostic proposal for the uncertain single provider attempt and await the eligibility reply. Do not reset/rearm/retry the consumed attempt or issue forecasts; any additional call needs new approval. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
+1. Evaluate the failed v2 acceptance criterion offline and await the eligibility reply. Preserve both attempts; do not reset/rearm/retry or issue forecasts. Any additional provider call needs new approval. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
 2. Zero new spend approved. No further account/key actions, submissions, deployment, trading or contracts without the required authorization. No new runtime or continuous AI operation is verified.
 3. Retain historical research and live-artifact records without treating old plans as current authority. Named security-testing scope is a separate gate.
 

@@ -103,3 +103,13 @@ Next action is an offline-only diagnostic proposal. Any additional provider call
 
 
 Preserve the consumed attempt and uncertain result as evidence rather than treating a repair as permission for another call. Earlier no-cloud-resource and unsent-inquiry statements are historical and superseded by this checkpoint.
+
+## D015 — 2026-10-23 — Distinguish provider response from passed test
+One separately approved diagnostic AI call resolved with HTTP 200 and reported 14 prompt tokens and 16 completion tokens. The returned response string failed the exact `4` acceptance criterion. Raw response text was not retained, so no causal diagnosis is supported. This is evidence of an actual provider response, not a passed smoke test, forecasting accuracy or a working autonomous agent.
+
+The persistent receipt was read back. Public and preview routes were verified off. No cron, forecasts, new credentials or earnings were produced. The first uncertain attempt remains preserved separately; v2 does not retroactively resolve it or authorize further calls. Billing totals and operational readiness remain unverified.
+
+The GitHub Security Lab CodeQL bounty is retired, not a current revenue opportunity: [official status](https://securitylab.github.com/bounties/) and [sunset notice](https://github.com/github/securitylab/discussions/828). This specific retirement does not assert that every GitHub security reward program is retired; named-scope permission remains required for any separate testing.
+
+
+Continue offline diagnosis only; no inference about the unretained response or additional call authorization.

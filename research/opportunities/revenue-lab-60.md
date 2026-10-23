@@ -2,7 +2,14 @@
 
 2026-10-22. Public-safe research and synthetic-test checkpoint. All 60 proposed offers have unvalidated paid demand. This document authorizes no outreach, commercial launch, spending, account actions, production imports or autonomous runtime.
 
-## Cloud test checkpoint — 2026-10-23 00:28 UTC
+## Diagnostic v2 checkpoint — 2026-10-23 00:51 UTC
+One separately approved diagnostic AI call resolved with HTTP 200 and reported 14 prompt tokens and 16 completion tokens. The returned response string failed the exact `4` acceptance criterion. Raw response text was not retained, so no causal diagnosis is supported. This is evidence of an actual provider response, not a passed smoke test, forecasting accuracy or a working autonomous agent.
+
+The persistent receipt was read back. Public and preview routes were verified off. No cron, forecasts, new credentials or earnings were produced. The first uncertain attempt remains preserved separately; v2 does not retroactively resolve it or authorize further calls. Billing totals and operational readiness remain unverified.
+
+The GitHub Security Lab CodeQL bounty is retired, not a current revenue opportunity: [official status](https://securitylab.github.com/bounties/) and [sunset notice](https://github.com/github/securitylab/discussions/828). This specific retirement does not assert that every GitHub security reward program is retired; named-scope permission remains required for any separate testing.
+
+## Historical first cloud test checkpoint — 2026-10-23 00:28 UTC
 Actual Cloudflare hosting and SQLite deployment were verified. This is infrastructure evidence, not successful AI reasoning or a scheduled autonomous runtime. An initial empty POST was rejected before model-attempt reservation. A narrow, offline-tested transport repair used the same ledger and authorization window.
 
 The repaired single provider attempt ended **uncertain**. A provider exception and a response-format mismatch cannot be distinguished because the implementation discarded the diagnostic detail. An independent status read confirmed the uncertain state. The one-attempt budget is consumed: no reset, rearm, retry or forecast was performed, and no successful AI inference or billing total is verified. Public and preview routes were verified off at 00:28:45 UTC; the schedule list was empty.
