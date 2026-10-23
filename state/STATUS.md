@@ -1,6 +1,6 @@
 # Operating checkpoint
 
-As of 2026-10-23 01:57 UTC. Listing published; no verified customer sale or autonomous runtime.
+As of 2026-10-23 02:18 UTC. Bounded synthetic scheduled AI execution verified; no verified customer sale or always-on business operation.
 
 ## Verified
 - GitHub connector confirms `JeremyHennessy/autonomous-mm` is public, active, and defaults to `main`.
@@ -12,7 +12,10 @@ As of 2026-10-23 01:57 UTC. Listing published; no verified customer sale or auto
 - [PR #3](https://github.com/JeremyHennessy/autonomous-mm/pull/3) merged at `efd96c1855da125c949dee2de2359a7ad911df35`; main independently verified at this commit for this checkpoint.
 - Spending cap: $0. No trading, paid services, external marketing, credential grants or deployment initiated by this bootstrap.
 
-## Direct REST schema checkpoint — 2026-10-23 01:57 UTC
+## Bounded scheduled AI result — 2026-10-23 02:18 UTC
+Compatible finite-v2 passed all three fictional fixtures through actual Cloudflare Worker/AI binding/SQLite execution: one manual POST followed by automatic alarms at 02:16 and 02:18 UTC. Terminal complete/alarm-absent status was verified at 02:18:04; public and preview routes were verified off by the executing agent and independently by 02:18:36. Reported usage was 360 input + 246 output tokens. Estimated 59.98251 neurons uses published rates, not a provider neuron receipt or invoice. See the [result and limitations](../experiments/finite-compatible-offline/RESULT.md). No retries, real forecasts, new keys or paid changes; no future run scheduled. This is bounded scheduled-AI evidence, not always-on operation, real forecasting accuracy or earnings. Earlier failures remain historical evidence.
+
+## Historical direct REST schema checkpoint — 2026-10-23 01:57 UTC
 All three approved direct diagnostic calls are now used; testing is stopped. The first request used the exact finite schema and was rejected with HTTP 400 / code 8007 for unsupported xgrammar features. The second used a simplified forecast-only schema and returned the correct synthetic probability of 0.5, with 116 input tokens, 95 output tokens and 22.55 provider-reported neurons. Explicit offline normalization of the REST representation followed by the unchanged strict validator passed. This narrow result is not a forecasting-accuracy or billing-reconciliation claim.
 
 The third direct call passed actual null abstention with an empty source list using a minimal nullable REST schema: HTTP 200, stop finish reason, 129 input tokens, 62 output tokens and 16.14 provider-reported neurons. The original strict validator passed after explicit REST normalization. This verifies that narrow direct REST representation, not Cloudflare binding compatibility or scheduling. These results do not prove the cause of the earlier finite-v1 failure or verify scheduled execution. No timer, routes, keys or competition forecasts were created by this REST test. Original uncertain outcomes remain preserved; raw receipts and account identifiers are excluded. The reviewed offline integration is now preserved as a disabled source snapshot linked below. No call budget remains; no deployment, live forecast or earnings claim follows.
@@ -87,22 +90,21 @@ The separate [instrumented offline runner](../experiments/finite-instrumented-of
 The [compatible offline candidate](../experiments/finite-compatible-offline/README.md) now preserves explicit transport normalization and the minimal nullable generation contract; all 31 synthetic tests pass. Defaults remain disabled and live binding/scheduling compatibility is unverified. The [proposed competitive strategy](../research/forecasting-strategy-20261023.md) is unimplemented and has no demonstrated edge; prospective paired accuracy, coverage and cost evaluation must precede promotion.
 
 ## Runtime
-- Architecture: proposed in [RUNBOOK.md](../operations/RUNBOOK.md).
-- Actual provider responses: v2 and v3 returned HTTP 200 but failed strict-output acceptance. V3's synthetic arithmetic was correct; no successful end-to-end forecasting run is verified.
-- Scheduler: not implemented or enabled.
-- Last successful acceptance-tested model-backed run: none. The initial uncertain attempt and v2/v3 failed acceptance tests are recorded above. Next scheduled run: none.
-- Persistence evidence: repository documentation plus deployed SQLite infrastructure; end-to-end autonomous checkpoint recovery is not proven.
+- Bounded scheduled AI execution and SQLite result persistence: verified for three synthetic fixtures, completed 2026-10-23 at 02:18:04 UTC.
+- Two finite alarms executed; no perpetual cron. Terminal alarm absent; public/preview routes off independently verified.
+- Next scheduled run: none. Checked-in source defaults remain disabled.
+- Always-on operation, real-question forecasting skill, comprehensive recovery behavior and billing reconciliation remain unverified.
 
 ## Financial state
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
 ## Next objective and boundaries
-1. Review the offline source integration and await the eligibility reply. All three direct REST calls are consumed and testing is stopped. Preserve prior attempts and uncertainty; binding/scheduling remain unverified, and no forecasts or activation are authorized by this checkpoint. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
+1. Review the bounded scheduled result and prospective evaluation protocol; await the eligibility reply. Preserve all consumed attempts and earlier uncertainty. No new forecast, run or activation is authorized by this checkpoint. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
 2. Zero new spend approved. No further account/key actions, submissions, deployment, trading or contracts without the required authorization. No new runtime or continuous AI operation is verified.
 3. Retain historical research and live-artifact records without treating old plans as current authority. Named security-testing scope is a separate gate.
 
 ## Remaining uncertainty
-No customer demand, sales, earnings or settled profit is verified. Anonymous reachability and paid fulfillment remain untested independently. Full-pack listening remains unverified. Account-specific responsibilities remain in private owner-held records. Cloud inference still lacks verified free-only entitlement and tested runtime/persistence.
+No customer demand, sales, earnings or settled profit is verified. Anonymous reachability and paid fulfillment remain untested independently. Full-pack listening remains unverified. Account-specific responsibilities remain in private owner-held records. Bounded synthetic runtime/persistence is verified; ongoing free-only entitlement, billing reconciliation and always-on operation are not established.
 
 ## Private-deliverable integrity references
 - Review ZIP SHA-256: `0fc6dc0199629aecd4fbc84c5eae55534e115aaff43d75286e763221f72cfa42`.
