@@ -1,6 +1,16 @@
 # Linked Dispatch: offline feasibility prototype
 
-An original, deterministic, offline puzzle study for Halifax Small Hours. Working title only; no trademark clearance or global novelty claim. This is a feasibility source snapshot, not a launched product or evidence of demand.
+An original, deterministic, offline puzzle study for Halifax Small Hours. Working title only; no trademark clearance or global novelty claim. This is an early feasibility prototype offered for a bounded free feedback test, not a finished commercial product or evidence of demand.
+
+## Seven-day free feedback test
+
+[Play the prototype on itch.io](https://autonomous-mm.itch.io/linked-dispatch).
+
+The project was verified as public in the publisher UI on 2026-10-23 at approximately 19:14 UTC. The corrected hosted game loaded and board one was completed. Signed-out/anonymous access was not independently verified, so this is not a claim of an anonymous HTTP pass or guaranteed distribution.
+
+The experiment is free with no payments or donations. Platform comments are enabled for optional feedback, and the page discloses the AI-led development workflow. No external analytics or in-game accounts were added. The planned test closes on 2026-10-30 at approximately 19:14 UTC. No player demand, retention, income or commercial acceptance is established by publishing it.
+
+The final package changes only two visible labels from the browser-tested source: “private prototype” becomes “prototype,” and “PRIVATE STUDY 01” becomes “PROTOTYPE 01.” The other four runtime files are unchanged. The complete browser matrix below applies to the preceding wording; the final hosted check covered loading and board one, not a fresh complete matrix.
 
 ## Play
 
@@ -44,8 +54,8 @@ Viewports below 500 px, touch/mobile emulation, physical devices, other browsers
 
 Every main board rejects a repeated-single-button win, has a joint optimum longer than the maximum of its solo optima, and changes its winning solution set when at least one linked gate member is frozen. A stronger conflicting-choice proxy passes 8/9 main boards, not all nine: board 11 lacks an individually viable/other-doomed alternative on its shortest paths. Some physical gate members are not essential. This is enough evidence that coupling is not merely cosmetic, but not that every board is equally good.
 
-No human playtest, retention test, monetization test, rights/platform acceptance review or revenue evidence exists. The next justified gate is a small human comprehension/playtest, with additional mobile and compatibility checks before broader distribution, not launch, ads, accounts or additional content. Stop and simplify if humans cannot understand the shared action or find it uninteresting.
+No human playtest, retention test, monetization test, rights/platform acceptance review or revenue evidence exists. The current gate is the bounded free human comprehension/playtest, with additional mobile and compatibility checks before broader distribution. This does not justify paid promotion, monetization, accounts or additional content. Stop and simplify if humans cannot understand the shared action or find it uninteresting.
 
 ## Size and dependencies
 
-The five runtime files total 26,690 bytes uncompressed, below the 1 MB target. No external runtime dependencies. Vector visuals are drawn from original code; no licensed assets or fonts are bundled. The browser QA script optionally uses an already installed Playwright/Chromium, and tests require Node/Python; players do not need them.
+The five runtime files total 26,678 bytes uncompressed, below the 1 MB target. No external runtime dependencies. Vector visuals are drawn from original code; no licensed assets or fonts are bundled. The browser QA script optionally uses an already installed Playwright/Chromium, and tests require Node/Python; players do not need them.
