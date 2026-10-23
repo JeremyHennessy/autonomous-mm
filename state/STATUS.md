@@ -1,6 +1,6 @@
 # Operating checkpoint
 
-As of 2026-10-23 00:03 UTC. Listing published; no verified customer sale or autonomous runtime.
+As of 2026-10-23 00:28 UTC. Listing published; no verified customer sale or autonomous runtime.
 
 ## Verified
 - GitHub connector confirms `JeremyHennessy/autonomous-mm` is public, active, and defaults to `main`.
@@ -12,7 +12,14 @@ As of 2026-10-23 00:03 UTC. Listing published; no verified customer sale or auto
 - [PR #3](https://github.com/JeremyHennessy/autonomous-mm/pull/3) merged at `efd96c1855da125c949dee2de2359a7ad911df35`; main independently verified at this commit for this checkpoint.
 - Spending cap: $0. No trading, paid services, external marketing, credential grants or deployment initiated by this bootstrap.
 
-## Provider and reward checkpoint — 2026-10-23 00:03 UTC
+## Cloud test checkpoint — 2026-10-23 00:28 UTC
+Actual Cloudflare hosting and SQLite deployment were verified. This is infrastructure evidence, not successful AI reasoning or a scheduled autonomous runtime. An initial empty POST was rejected before model-attempt reservation. A narrow, offline-tested transport repair used the same ledger and authorization window.
+
+The repaired single provider attempt ended **uncertain**. A provider exception and a response-format mismatch cannot be distinguished because the implementation discarded the diagnostic detail. An independent status read confirmed the uncertain state. The one-attempt budget is consumed: no reset, rearm, retry or forecast was performed, and no successful AI inference or billing total is verified. Public and preview routes were verified off at 00:28:45 UTC; the schedule list was empty.
+
+Next action is an offline-only diagnostic proposal. Any additional provider call requires new approval; it is not approved by this checkpoint. No scheduled runtime is active. The DataCrunch eligibility inquiry was sent at 00:14:31 UTC and awaits a reply; no signup or staking occurred. Private identities, account details, receipts and implementation artifacts are excluded.
+
+## Historical provider and reward checkpoint — 2026-10-23 00:03 UTC
 GitHub Models is not an available provider: [official documentation](https://docs.github.com/en/github-models) confirms full retirement on July 30, 2026, including inference API and BYOK. Any earlier provider comparison is historical and superseded on this point. Gemini setup is paused; no Google credentials were created.
 
 Cloudflare is the current conditional inference candidate. Free-only eligibility is owner-reported, not independently verified through the available subscription endpoint. Private account configuration is intentionally omitted. No cloud resources, model calls, schedules or Metaculus forecasts have been executed. The private Cloudflare safety prototype passed 23 tests and the separate one-call smoke prototype passed 11 tests on independent reruns. These are offline tests, not cloud integration, forecasting accuracy or operational-autonomy evidence.
@@ -54,14 +61,14 @@ Post-review checkpoint, 2026-10-22 20:58 UTC: F03 is ON HOLD for prospecting. A 
 - Architecture: proposed in [RUNBOOK.md](../operations/RUNBOOK.md).
 - Actual model-backed cloud runs: none verified.
 - Scheduler: not implemented or enabled.
-- Last successful cloud run: none. Next scheduled run: none.
-- Persistence proven so far: repository documentation only, not autonomous checkpoint recovery.
+- Last successful model-backed cloud run: none verified. Hosting/SQLite deployment and an uncertain single provider attempt are recorded above. Next scheduled run: none.
+- Persistence evidence: repository documentation plus deployed SQLite infrastructure; end-to-end autonomous checkpoint recovery is not proven.
 
 ## Financial state
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
 ## Next objective and boundaries
-1. Resolve the bounded one-call test and eligibility-inquiry approvals above, then establish actual free-only cloud evidence before considering any broader pilot. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
+1. Prepare an offline diagnostic proposal for the uncertain single provider attempt and await the eligibility reply. Do not reset/rearm/retry the consumed attempt or issue forecasts; any additional call needs new approval. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
 2. Zero new spend approved. No further account/key actions, submissions, deployment, trading or contracts without the required authorization. No new runtime or continuous AI operation is verified.
 3. Retain historical research and live-artifact records without treating old plans as current authority. Named security-testing scope is a separate gate.
 

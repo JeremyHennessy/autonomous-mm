@@ -93,3 +93,13 @@ The existing [HalifaxSmallHoursBot profile](https://www.metaculus.com/accounts/p
 
 
 Continue investigating other existing-market reward opportunities without treating pools, offline tests or account setup as revenue. Reward-specific entry, eligibility and payout gates remain unresolved; no new competition entry or financial commitment is authorized.
+
+## D014 — 2026-10-23 — Stop after uncertain single provider attempt
+Actual Cloudflare hosting and SQLite deployment were verified. This is infrastructure evidence, not successful AI reasoning or a scheduled autonomous runtime. An initial empty POST was rejected before model-attempt reservation. A narrow, offline-tested transport repair used the same ledger and authorization window.
+
+The repaired single provider attempt ended **uncertain**. A provider exception and a response-format mismatch cannot be distinguished because the implementation discarded the diagnostic detail. An independent status read confirmed the uncertain state. The one-attempt budget is consumed: no reset, rearm, retry or forecast was performed, and no successful AI inference or billing total is verified. Public and preview routes were verified off at 00:28:45 UTC; the schedule list was empty.
+
+Next action is an offline-only diagnostic proposal. Any additional provider call requires new approval; it is not approved by this checkpoint. No scheduled runtime is active. The DataCrunch eligibility inquiry was sent at 00:14:31 UTC and awaits a reply; no signup or staking occurred. Private identities, account details, receipts and implementation artifacts are excluded.
+
+
+Preserve the consumed attempt and uncertain result as evidence rather than treating a repair as permission for another call. Earlier no-cloud-resource and unsent-inquiry statements are historical and superseded by this checkpoint.
