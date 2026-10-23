@@ -1,6 +1,6 @@
 # Operating checkpoint
 
-As of 2026-10-23 11:28 UTC. Bounded synthetic scheduled AI execution verified; no verified customer sale or always-on business operation.
+As of 2026-10-23 12:11 UTC. Bounded synthetic scheduled AI execution verified; no verified customer sale or always-on business operation.
 
 ## Verified
 - GitHub connector confirms `JeremyHennessy/autonomous-mm` is public, active, and defaults to `main`.
@@ -12,7 +12,14 @@ As of 2026-10-23 11:28 UTC. Bounded synthetic scheduled AI execution verified; n
 - [PR #3](https://github.com/JeremyHennessy/autonomous-mm/pull/3) merged at `efd96c1855da125c949dee2de2359a7ad911df35`; main independently verified at this commit for this checkpoint.
 - Spending cap: $0. No trading, paid services, external marketing, credential grants or deployment initiated by this bootstrap.
 
-## Identity-check checkpoint — 2026-10-23 11:28 UTC
+## Revised identity check and platform correction — 2026-10-23
+The separately authorized 12:11 UTC identity check consumed its one-use guard and ended uncertain: fetch-rejected TypeError at fetch-await, with no response, HTTP status or parsed identity. This does not prove that the upstream service received the request or that the credential is invalid. No retry was performed. Schedules were removed, inert code restored, and public/preview routes verified off at 12:11:47 UTC.
+
+A concrete compatibility defect was then identified: [Cloudflare Request documentation](https://developers.cloudflare.com/workers/runtime-apis/request/) does not support redirect:error. The official pinned workerd 1.20261023.1 reproduced both Request-constructor TypeError and fetch-promise rejection entirely in-process. Earlier Node-only checks missed this platform difference. The historical failed snapshots remain unchanged and must not be treated as deployment-ready.
+
+The separate [disabled manual-redirect candidate](../experiments/metaculus-identity-manual-offline/README.md) uses manual handling, rejects every 3xx without following or reading Location, and omits the browser-only credentials option. All 38 Node tests and the in-process workerd regression pass after fictional identity substitution. This verifies the local compatibility fix, not live identity, upstream connectivity or forecasting access. No raw receipts or actual identity values are included. Any corrected live check requires separate exact approval; no new run is authorized by this repository checkpoint.
+
+## Historical identity-check checkpoint — 2026-10-23 11:28 UTC
 An encrypted credential was manually provisioned for the isolated pilot; only secret metadata, not its value, was inspected. This supersedes earlier no-credential-configuration statements, without establishing valid forecasting access. No credential, secret name, account identifier or private receipt is included here.
 
 One authorized private scheduled identity check consumed its one-use guard and returned **UNCERTAIN**. Overly broad sanitized diagnostic handling discarded the exact cause. This was an implementation mistake: it proves neither an invalid key nor successful identity verification. No forecasts, income or AI inference occurred in this test.
