@@ -1,6 +1,6 @@
 # Operating checkpoint
 
-As of 2026-10-23 00:51 UTC. Listing published; no verified customer sale or autonomous runtime.
+As of 2026-10-23 01:07 UTC. Listing published; no verified customer sale or autonomous runtime.
 
 ## Verified
 - GitHub connector confirms `JeremyHennessy/autonomous-mm` is public, active, and defaults to `main`.
@@ -12,7 +12,10 @@ As of 2026-10-23 00:51 UTC. Listing published; no verified customer sale or auto
 - [PR #3](https://github.com/JeremyHennessy/autonomous-mm/pull/3) merged at `efd96c1855da125c949dee2de2359a7ad911df35`; main independently verified at this commit for this checkpoint.
 - Spending cap: $0. No trading, paid services, external marketing, credential grants or deployment initiated by this bootstrap.
 
-## Diagnostic v2 checkpoint — 2026-10-23 00:51 UTC
+## Diagnostic v3 checkpoint — 2026-10-23 01:07 UTC
+The third diagnostic returned provider HTTP 200. Its synthetic answer correctly computed 2 + 2 = 4, but added prose and reached the 64-completion-token cap, so the strict output criterion failed. This does not establish forecasting accuracy or overall readiness. The saved result was read back, and public and preview routes were independently verified off. Three lifetime diagnostic records are consumed and preserved; no retries, cron or forecasts are enabled. Raw output and private identifiers are not published. The separate [offline safety prototype and its 28 passing tests](../experiments/cloudflare-forecast-pilot/README.md) remain available for review, not live activation.
+
+## Historical diagnostic v2 checkpoint — 2026-10-23 00:51 UTC
 One separately approved diagnostic AI call resolved with HTTP 200 and reported 14 prompt tokens and 16 completion tokens. The returned response string failed the exact `4` acceptance criterion. Raw response text was not retained, so no causal diagnosis is supported. This is evidence of an actual provider response, not a passed smoke test, forecasting accuracy or a working autonomous agent.
 
 The persistent receipt was read back. Public and preview routes were verified off. No cron, forecasts, new credentials or earnings were produced. The first uncertain attempt remains preserved separately; v2 does not retroactively resolve it or authorize further calls. Billing totals and operational readiness remain unverified.
@@ -69,16 +72,16 @@ The [forecasting safety prototype](../experiments/cloudflare-forecast-pilot/READ
 
 ## Runtime
 - Architecture: proposed in [RUNBOOK.md](../operations/RUNBOOK.md).
-- Actual provider response: diagnostic v2 returned HTTP 200 and token usage, but failed its exact-response criterion; no successful end-to-end autonomous reasoning run is verified.
+- Actual provider responses: v2 and v3 returned HTTP 200 but failed strict-output acceptance. V3's synthetic arithmetic was correct; no successful end-to-end forecasting run is verified.
 - Scheduler: not implemented or enabled.
-- Last successful acceptance-tested model-backed run: none. The initial uncertain attempt and v2 failed acceptance test are recorded above. Next scheduled run: none.
+- Last successful acceptance-tested model-backed run: none. The initial uncertain attempt and v2/v3 failed acceptance tests are recorded above. Next scheduled run: none.
 - Persistence evidence: repository documentation plus deployed SQLite infrastructure; end-to-end autonomous checkpoint recovery is not proven.
 
 ## Financial state
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
 ## Next objective and boundaries
-1. Evaluate the failed v2 acceptance criterion offline and await the eligibility reply. Preserve both attempts; do not reset/rearm/retry or issue forecasts. Any additional provider call needs new approval. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
+1. Review the v3 strict-output failure offline and await the eligibility reply. Preserve all three diagnostic records; do not reset/rearm/retry or issue forecasts. Any additional provider call needs new approval. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
 2. Zero new spend approved. No further account/key actions, submissions, deployment, trading or contracts without the required authorization. No new runtime or continuous AI operation is verified.
 3. Retain historical research and live-artifact records without treating old plans as current authority. Named security-testing scope is a separate gate.
 
