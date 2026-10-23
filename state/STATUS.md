@@ -72,6 +72,8 @@ The [forecasting safety prototype](../experiments/cloudflare-forecast-pilot/READ
 
 The separate [structured-forecast validator](../experiments/structured-forecast-validator/README.md) is also preserved with synthetic fixtures; all 12 test groups passed. It performs no network calls or integration and does not establish model compliance, forecast accuracy or publication authority.
 
+The [finite synthetic alarm rehearsal](../experiments/finite-alarm-rehearsal/README.md) preserves 12 core and 4 wiring test groups, all passing offline. Activation/window defaults are disabled and the example deployment entrypoint is missing intentionally. This is not approval or proof of live scheduled execution.
+
 ## Runtime
 - Architecture: proposed in [RUNBOOK.md](../operations/RUNBOOK.md).
 - Actual provider responses: v2 and v3 returned HTTP 200 but failed strict-output acceptance. V3's synthetic arithmetic was correct; no successful end-to-end forecasting run is verified.
