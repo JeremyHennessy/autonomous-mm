@@ -1,6 +1,6 @@
 # Operating checkpoint
 
-As of 2026-10-23 01:07 UTC. Listing published; no verified customer sale or autonomous runtime.
+As of 2026-10-23 01:30 UTC. Listing published; no verified customer sale or autonomous runtime.
 
 ## Verified
 - GitHub connector confirms `JeremyHennessy/autonomous-mm` is public, active, and defaults to `main`.
@@ -12,7 +12,10 @@ As of 2026-10-23 01:07 UTC. Listing published; no verified customer sale or auto
 - [PR #3](https://github.com/JeremyHennessy/autonomous-mm/pull/3) merged at `efd96c1855da125c949dee2de2359a7ad911df35`; main independently verified at this commit for this checkpoint.
 - Spending cap: $0. No trading, paid services, external marketing, credential grants or deployment initiated by this bootstrap.
 
-## Diagnostic v3 checkpoint — 2026-10-23 01:07 UTC
+## Finite rehearsal v1 outcome — 2026-10-23 01:30 UTC
+The first fixture ended in a generic provider-stage failure, consuming one attempt. Usage and cause remain unknown because diagnostic detail was insufficient. The fail-closed behavior stopped the remaining two fixtures before any alarms were scheduled. Independent status inspection showed stopped state with no alarm present; both the executing agent and an independent reviewer verified public and preview routes off. Scheduled model execution is therefore **not verified**. Preserve this result separately from the three earlier diagnostic records. No new calls or deployment follow from this checkpoint; the [tested disabled source](../experiments/finite-alarm-rehearsal/README.md) remains unchanged. Next work is offline diagnosis only, without resetting, rearming or retrying the consumed attempt.
+
+## Historical diagnostic v3 checkpoint — 2026-10-23 01:07 UTC
 The third diagnostic returned provider HTTP 200. Its synthetic answer correctly computed 2 + 2 = 4, but added prose and reached the 64-completion-token cap, so the strict output criterion failed. This does not establish forecasting accuracy or overall readiness. The saved result was read back, and public and preview routes were independently verified off. Three lifetime diagnostic records are consumed and preserved; no retries, cron or forecasts are enabled. Raw output and private identifiers are not published. The separate [offline safety prototype and its 28 passing tests](../experiments/cloudflare-forecast-pilot/README.md) remain available for review, not live activation.
 
 ## Historical diagnostic v2 checkpoint — 2026-10-23 00:51 UTC
@@ -85,7 +88,7 @@ The [finite synthetic alarm rehearsal](../experiments/finite-alarm-rehearsal/REA
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
 ## Next objective and boundaries
-1. Review the v3 strict-output failure offline and await the eligibility reply. Preserve all three diagnostic records; do not reset/rearm/retry or issue forecasts. Any additional provider call needs new approval. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
+1. Diagnose the finite-v1 provider-stage failure offline and await the eligibility reply. Preserve its consumed attempt and all three earlier diagnostic records; do not reset/rearm/retry or issue forecasts. Any additional provider call needs new approval. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
 2. Zero new spend approved. No further account/key actions, submissions, deployment, trading or contracts without the required authorization. No new runtime or continuous AI operation is verified.
 3. Retain historical research and live-artifact records without treating old plans as current authority. Named security-testing scope is a separate gate.
 
