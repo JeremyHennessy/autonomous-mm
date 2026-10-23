@@ -1,6 +1,6 @@
 # Operating checkpoint
 
-As of 2026-10-23 12:11 UTC. Bounded synthetic scheduled AI execution verified; no verified customer sale or always-on business operation.
+As of 2026-10-23 12:55 UTC. Bounded synthetic scheduled AI execution verified; no verified customer sale or always-on business operation.
 
 ## Verified
 - GitHub connector confirms `JeremyHennessy/autonomous-mm` is public, active, and defaults to `main`.
@@ -12,7 +12,10 @@ As of 2026-10-23 12:11 UTC. Bounded synthetic scheduled AI execution verified; n
 - [PR #3](https://github.com/JeremyHennessy/autonomous-mm/pull/3) merged at `efd96c1855da125c949dee2de2359a7ad911df35`; main independently verified at this commit for this checkpoint.
 - Spending cap: $0. No trading, paid services, external marketing, credential grants or deployment initiated by this bootstrap.
 
-## Revised identity check and platform correction — 2026-10-23
+## Successful corrected identity check — 2026-10-23 12:55 UTC
+One separately authorized read-only request returned HTTP 200 JSON and matched the expected bot identity at 12:55:12 UTC. Only bounded safe telemetry was persisted; no raw profile or token was persisted or retrieved by the operator. Cleanup was verified at 12:55:56: schedules empty, public/preview routes off, exact inert fetch-only source restored, and all three historical guard ledgers preserved. See the [result and limits](../experiments/metaculus-identity-manual-offline/RESULT.md). This verifies single-request authenticated identity access, not forecasting enabled, tournament admission or prize eligibility. No forecasts, AI inference or income occurred. Next work is offline end-to-end fictional integration; no live pilot activation follows.
+
+## Historical revised identity check and platform correction — 2026-10-23
 The separately authorized 12:11 UTC identity check consumed its one-use guard and ended uncertain: fetch-rejected TypeError at fetch-await, with no response, HTTP status or parsed identity. This does not prove that the upstream service received the request or that the credential is invalid. No retry was performed. Schedules were removed, inert code restored, and public/preview routes verified off at 12:11:47 UTC.
 
 A concrete compatibility defect was then identified: [Cloudflare Request documentation](https://developers.cloudflare.com/workers/runtime-apis/request/) does not support redirect:error. The official pinned workerd 1.20261023.1 reproduced both Request-constructor TypeError and fetch-promise rejection entirely in-process. Earlier Node-only checks missed this platform difference. The historical failed snapshots remain unchanged and must not be treated as deployment-ready.
@@ -117,7 +120,7 @@ The [synthetic eligibility policy and provider-shape normalizers](../experiments
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
 ## Next objective and boundaries
-1. Review safe offline diagnostics for the uncertain identity check and require separate exact approval before another live call; continue alternative reward-candidate research and await the eligibility reply. Preserve all consumed attempts and earlier uncertainty. No new forecast, run or activation is authorized by this checkpoint. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
+1. Continue offline end-to-end fictional forecasting integration after the successful bounded identity check; continue alternative reward-candidate research and await the eligibility reply. Preserve all consumed attempts and earlier uncertainty. No new forecast, run or activation is authorized by this checkpoint. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
 2. Zero new spend approved. No further account/key actions, submissions, deployment, trading or contracts without the required authorization. No new runtime or continuous AI operation is verified.
 3. Retain historical research and live-artifact records without treating old plans as current authority. Named security-testing scope is a separate gate.
 
