@@ -1,0 +1,3 @@
+a0b02cae2fb5df29f58baba37d359cba60b89f572d1077ab62d8b0ff9bfb9b43  deps/model-transport.mjs
+ab2f2aa69084d631bf9b20384713117fe92a7efe2b6c6f675ccd9130e859ed77  deps/strict-json.mjs
+a2314946d2de7db3f53723952d5e029cae3c9d1889bad849795d4c4a64353227  deps/validator.mjs
