@@ -4,3 +4,21 @@
 .action[data-action="0"] .pair{background:var(--a)}.action[data-action="1"] .pair{background:var(--b)}.action[data-action="2"] .pair{background:var(--c)}
 
 .shortcut-toggle{display:flex;align-items:center;gap:8px;margin:12px 0;min-height:44px}.shortcut-toggle input{width:20px;height:20px;accent-color:#1e544b}
+
+/* Narrow-screen candidate: one natural-flow board/control stage; no overlays. */
+.interaction-controls{display:contents}
+@media(max-width:750px){
+ .game{display:flex;flex-direction:column;gap:0}
+ .board-column,aside{display:contents}
+ .board-heading{order:1}.hint{order:2}.board-wrap{order:3}
+ .board-wrap svg{max-height:calc(100svh - 230px)}
+ .interaction-controls{display:grid;grid-template-columns:minmax(0,1fr) minmax(86px,112px);align-items:stretch;gap:8px;order:5;margin-top:0}
+ .interaction-controls .actions{margin:0;gap:6px;min-width:0;order:0}
+ .interaction-controls .action{padding:7px 5px;gap:3px;min-height:88px;align-items:center;text-align:center}
+ .interaction-controls .action.selected{padding:6px 4px}
+ .interaction-controls .route-text strong{display:none}
+ .interaction-controls .pair{width:23px;height:23px}
+ .interaction-controls #commit{order:0;width:100%;padding:9px 8px;line-height:1.5;font-size:12px}
+ .under-board{order:4}.interaction-controls .preview-panel{order:1;grid-column:1/-1;margin:4px 0 0}.status{order:6}#next{order:7}details{order:8}
+ aside>.eyebrow{display:none}
+}
