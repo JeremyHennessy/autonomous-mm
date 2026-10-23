@@ -1,6 +1,6 @@
 # Disabled identity diagnostic candidate
 
-OFFLINE ONLY. No Worker export, route, cron, live request, credential default, deployed config, or deployment payload. The earlier live attempt ended uncertain because broad diagnostic handling discarded the evidence needed to locate the error. This candidate does not establish its cause or prove the credential invalid. Historical evidence is not replaced by this snapshot.
+OFFLINE ONLY. The core has no Worker export, route, cron, live request, credential default or deployed config. A separately disabled [runtime example](runtime/README.md) is included; it does not activate a trigger. The earlier live attempt ended uncertain because broad diagnostic handling discarded the evidence needed to locate the error. This candidate does not establish its cause or prove the credential invalid. Historical evidence is not replaced by this snapshot.
 
 Run `node --test *test.mjs` with Node's built-in SQLite module. No dependencies or installs. Tests are synthetic and self-contained. Local SQLite verifies SQL and transactions, not Cloudflare output-gate/storage failure semantics.
 
@@ -12,7 +12,7 @@ Durable checkpoints record stage/timestamps, dispatchAttempted, dispatchMayHaveO
 
 `dispatchMayHaveOccurred=true` is persisted before invocation, then the clock is checked immediately before invocation with no intervening await. A crash in this gap is inherently ambiguous: the durable false dispatchAttempted field is NOT proof no dispatch occurred. A successful persisted terminal observation can distinguish sync throw, promise rejection, timeout and extraction/read/parse/shape failures. If persistence fails, report storage-unverified and retain the consumed claim; missing diagnostics never authorize retry. Post-timeout work cannot overwrite terminal storage. Terminal verified results crossing expiry during sync are downgraded uncertain.
 
-`ledger.mjs` is a separate, unactivated SQLite adapter using transactionSync and sync. Never point it at the old consumed record. Initialization must eventually be awaited in blockConcurrencyWhile, in a separately reviewed wrapper. Durable object identity, source/config binding, cleanup and private result retrieval require integration review before any future authorization request. This candidate does not install or remove any trigger.
+`ledger.mjs` is a separate, unactivated SQLite adapter using transactionSync and sync. Never point it at the old consumed record. Initialization must eventually be awaited in blockConcurrencyWhile, in a separately reviewed wrapper such as the disabled runtime example. Durable object identity, source/config binding, cleanup and private result retrieval require integration review before any future authorization request. This candidate does not install or remove any trigger.
 
 ## Evidence, not diagnosis
 
