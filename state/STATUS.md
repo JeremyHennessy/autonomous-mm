@@ -105,6 +105,8 @@ The [compatible offline candidate](../experiments/finite-compatible-offline/READ
 
 The [atomic submission contract](../experiments/metaculus-atomic-contract/README.md) preserves 10 passing synthetic test groups for a combined forecast/comment request. It is a pure offline module, not a durable writer or live client. Probabilities outside 0.001–0.999 are rejected rather than clamped; HTTP 201 with an empty object supplies no record IDs or idempotency guarantee. Unresolved reconciliation stays unknown with no automatic retry. No registration, credentials or submission authority follows.
 
+The [synthetic eligibility policy and provider-shape normalizers](../experiments/metaculus-eligibility-offline/README.md) preserve 75 passing offline tests. Duplicate JSON keys fail closed; protocol binding requires a separate trusted digest. Observations distinguish missing, null, invalid and value without inventing eligibility or complete authenticated history. No live transport/admission bridge, real criteria parser, authentication freshness proof or dispatch integration exists. Every result disallows live use. Official source references are mutable main links, not pinned production provenance. No identity-check outcome is inferred from these tests.
+
 ## Runtime
 - Bounded scheduled AI execution and SQLite result persistence: verified for three synthetic fixtures, completed 2026-10-23 at 02:18:04 UTC.
 - Two finite alarms executed; no perpetual cron. Terminal alarm absent; public/preview routes off independently verified.
