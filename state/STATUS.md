@@ -1,6 +1,6 @@
 # Operating checkpoint
 
-As of 2026-10-22 22:53 UTC. Listing published; no verified customer sale or autonomous runtime.
+As of 2026-10-23 00:03 UTC. Listing published; no verified customer sale or autonomous runtime.
 
 ## Verified
 - GitHub connector confirms `JeremyHennessy/autonomous-mm` is public, active, and defaults to `main`.
@@ -12,10 +12,19 @@ As of 2026-10-22 22:53 UTC. Listing published; no verified customer sale or auto
 - [PR #3](https://github.com/JeremyHennessy/autonomous-mm/pull/3) merged at `efd96c1855da125c949dee2de2359a7ad911df35`; main independently verified at this commit for this checkpoint.
 - Spending cap: $0. No trading, paid services, external marketing, credential grants or deployment initiated by this bootstrap.
 
-## Forecasting setup checkpoint — 2026-10-22 22:53 UTC
+## Provider and reward checkpoint — 2026-10-23 00:03 UTC
+GitHub Models is not an available provider: [official documentation](https://docs.github.com/en/github-models) confirms full retirement on July 30, 2026, including inference API and BYOK. Any earlier provider comparison is historical and superseded on this point. Gemini setup is paused; no Google credentials were created.
+
+Cloudflare is the current conditional inference candidate. Free-only eligibility is owner-reported, not independently verified through the available subscription endpoint. Private account configuration is intentionally omitted. No cloud resources, model calls, schedules or Metaculus forecasts have been executed. The private Cloudflare safety prototype passed 23 tests and the separate one-call smoke prototype passed 11 tests on independent reruns. These are offline tests, not cloud integration, forecasting accuracy or operational-autonomy evidence.
+
+The existing [HalifaxSmallHoursBot profile](https://www.metaculus.com/accounts/profile/311063/) remains the sole created forecasting bot; its key has not been read, copied, stored or used. The pending approval is limited to an isolated one-call temporary public Cloudflare test and one eligibility inquiry, not a full pilot, persistent runtime or forecast submission. No paid access is authorized and the inquiry has not been sent.
+
+MiniBench and DataCrunch #2 remain conditional reward leads with entry/eligibility and payout gates, not earned income. See the [source-backed reward checkpoint](../research/opportunities/revenue-lab-60.md). No competition entry or financial commitment follows from this update.
+
+## Historical forecasting setup checkpoint — 2026-10-22 22:53 UTC
 Human account activation is complete. Exactly one bot, [HalifaxSmallHoursBot](https://www.metaculus.com/accounts/profile/311063/), was created and publicly verified with 0 predictions and 0 comments at this checkpoint. The bot key has not been read, copied, stored or used. An independent rerun of the private offline harness passed 18 tests at 22:34 UTC; this establishes neither live integration nor forecasting accuracy, revenue or scheduled autonomy.
 
-Google project/key creation and storage of both service keys in GitHub Actions secrets await new specific user approval. No paid access or forecast submissions are authorized. Next: resolve these narrowly scoped access approvals before any integration; preserve free-only cost gates and separately verify a bounded manual run before considering scheduling. No runtime is activated. Private identity, email, credentials and harness files are not published here.
+At this earlier checkpoint, Google project/key creation and storage of both service keys in GitHub Actions secrets awaited specific approval; the provider checkpoint above now supersedes that plan. No paid access or forecast submissions are authorized. Next: resolve these narrowly scoped access approvals before any integration; preserve free-only cost gates and separately verify a bounded manual run before considering scheduling. No runtime is activated. Private identity, email, credentials and harness files are not published here.
 
 ## Current strategy — 2026-10-22 22:19 UTC
 Prioritize existing markets or reward systems that can be operated and iterated without recruiting a new customer/user audience. Catalogue/referral services, Upwork/client services and audience-building experiments are no longer the primary strategy. Earlier research remains historical evidence, not an active instruction to sell those offers. Only conditional forecasting-feasibility research is selected now: no profitable system, zero-owner-input operation or quick-cash route is established. No new spending is approved; capability, eligibility, cost and permission gates remain open.
@@ -52,7 +61,7 @@ Post-review checkpoint, 2026-10-22 20:58 UTC: F03 is ON HOLD for prospecting. A 
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
 ## Next objective and boundaries
-1. Resolve specific pending integration-access approvals described above, then assess conditional forecasting feasibility against actual eligibility, capability and free-only cost evidence. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
+1. Resolve the bounded one-call test and eligibility-inquiry approvals above, then establish actual free-only cloud evidence before considering any broader pilot. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
 2. Zero new spend approved. No further account/key actions, submissions, deployment, trading or contracts without the required authorization. No new runtime or continuous AI operation is verified.
 3. Retain historical research and live-artifact records without treating old plans as current authority. Named security-testing scope is a separate gate.
 

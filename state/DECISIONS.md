@@ -83,3 +83,13 @@ Google project/key creation and storage of both service keys in GitHub Actions s
 
 
 This updates D011's account-setup status only. Earlier research and stops remain historical evidence; no profit or continuous-operation claim is introduced.
+
+## D013 — 2026-10-23 — Verify a single cloud call before broader operation
+GitHub Models is not an available provider: [official documentation](https://docs.github.com/en/github-models) confirms full retirement on July 30, 2026, including inference API and BYOK. Any earlier provider comparison is historical and superseded on this point. Gemini setup is paused; no Google credentials were created.
+
+Cloudflare is the current conditional inference candidate. Free-only eligibility is owner-reported, not independently verified through the available subscription endpoint. Private account configuration is intentionally omitted. No cloud resources, model calls, schedules or Metaculus forecasts have been executed. The private Cloudflare safety prototype passed 23 tests and the separate one-call smoke prototype passed 11 tests on independent reruns. These are offline tests, not cloud integration, forecasting accuracy or operational-autonomy evidence.
+
+The existing [HalifaxSmallHoursBot profile](https://www.metaculus.com/accounts/profile/311063/) remains the sole created forecasting bot; its key has not been read, copied, stored or used. The pending approval is limited to an isolated one-call temporary public Cloudflare test and one eligibility inquiry, not a full pilot, persistent runtime or forecast submission. No paid access is authorized and the inquiry has not been sent.
+
+
+Continue investigating other existing-market reward opportunities without treating pools, offline tests or account setup as revenue. Reward-specific entry, eligibility and payout gates remain unresolved; no new competition entry or financial commitment is authorized.
