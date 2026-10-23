@@ -77,6 +77,8 @@ The separate [structured-forecast validator](../experiments/structured-forecast-
 
 The [finite synthetic alarm rehearsal](../experiments/finite-alarm-rehearsal/README.md) preserves 12 core and 4 wiring test groups, all passing offline. Activation/window defaults are disabled and the example deployment entrypoint is missing intentionally. This is not approval or proof of live scheduled execution.
 
+The separate [instrumented offline runner](../experiments/finite-instrumented-offline/README.md) adds bounded diagnostic stages, numeric usage retention and a final pre-dispatch clock check. All 19 offline tests pass. It remains disabled, does not resolve finite-v1's unknown live cause, and does not reset or replace prior consumed records.
+
 ## Runtime
 - Architecture: proposed in [RUNBOOK.md](../operations/RUNBOOK.md).
 - Actual provider responses: v2 and v3 returned HTTP 200 but failed strict-output acceptance. V3's synthetic arithmetic was correct; no successful end-to-end forecasting run is verified.
