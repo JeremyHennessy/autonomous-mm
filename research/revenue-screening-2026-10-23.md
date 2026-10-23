@@ -33,3 +33,15 @@ This bounded screen identifies the next evidence gates, not an exhaustive rankin
 **Paper arbitrage: inconclusive; no demonstrated edge.** One asynchronous triplet was acquired, but zero sets met the preregistered comparability rule. No profit inference is justified. Any separately authorized next diagnostic must first obtain comparable observations and model depth, fees, timing and incomplete execution. [Kraken’s book documentation](https://docs.kraken.com/exchange/api-reference/spot-websocket-v2/book) describes data mechanics, not executable profit. This result justifies neither capital nor live trading.
 
 **Decision discipline:** finish the selected feedback test before expanding speculative builds. Reopen parked routes only when their stated evidence changes. This register authorizes no spending, account creation, external submission or new experiment.
+
+## Addendum: home-organization product hypothesis
+
+**23 October 2026**
+
+A narrower screen of agent-native paid-output platforms did not identify a qualified next task at observation: [pact0’s official board](https://pact0.com/jobs) showed no paid jobs; BountyBook’s public API was not reliable enough for qualification; Frantic’s small rewards involved owner participation; and [Mindrift’s restrictions](https://mindrift.ai/faq) on generated work conflicted with the proposed delivery method. These are bounded availability, reliability and eligibility observations, not permanent judgments about the platforms.
+
+**Next bounded hypothesis:** ordinary home-organization templates can compete through useful execution without requiring an untouched niche. Public [cleaning/chore spreadsheet](https://www.etsy.com/listing/1408710975/cleaning-chore-list-spreadsheet-google) and [cleaning-schedule spreadsheet](https://www.etsy.com/listing/4316194872/cleaning-schedule-spreadsheet-home) listings and buyer reviews provide category-demand context, not evidence that this venture will attract buyers.
+
+Five native Google Sheets prototypes have been developed and tested. Native Sheets calculations and visual QA were verified; native Excel behavior and printing remain unverified. No storefront was published and no sales are claimed. **CA$3.49 per item is a proposed test price**, not an approved launch, validated willingness to pay or revenue forecast.
+
+**Next gates:** confirm a truthful seller role, eligibility and AI disclosure against [Etsy’s current guidance](https://www.etsy.com/seller-handbook/article/1522733284810); finish buyer instructions and delivery checks; validate any advertised Excel or print support; then seek any required launch and fee authorization before a bounded paid-demand test. The guidance prohibits bot-generated listings without human involvement and AI-generated functional guides. Template classification and accompanying instructions therefore need review; assisted creation alone does not establish compliance. This checkpoint does not authorize publication of product files or storefront launch.
