@@ -1,6 +1,6 @@
 # Operating checkpoint
 
-As of 2026-10-23 01:30 UTC. Listing published; no verified customer sale or autonomous runtime.
+As of 2026-10-23 01:54 UTC. Listing published; no verified customer sale or autonomous runtime.
 
 ## Verified
 - GitHub connector confirms `JeremyHennessy/autonomous-mm` is public, active, and defaults to `main`.
@@ -12,7 +12,12 @@ As of 2026-10-23 01:30 UTC. Listing published; no verified customer sale or auto
 - [PR #3](https://github.com/JeremyHennessy/autonomous-mm/pull/3) merged at `efd96c1855da125c949dee2de2359a7ad911df35`; main independently verified at this commit for this checkpoint.
 - Spending cap: $0. No trading, paid services, external marketing, credential grants or deployment initiated by this bootstrap.
 
-## Finite rehearsal v1 outcome — 2026-10-23 01:30 UTC
+## Direct REST schema checkpoint — 2026-10-23 01:54 UTC
+Two of three approved diagnostic calls were used, then testing stopped. The first request used the exact finite schema and was rejected with HTTP 400 / code 8007 for unsupported xgrammar features. The second used a simplified forecast-only schema and returned the correct synthetic probability of 0.5, with 116 input tokens, 95 output tokens and 22.55 provider-reported neurons. Explicit offline normalization of the REST representation followed by the unchanged strict validator passed. This narrow result is not a forecasting-accuracy or billing-reconciliation claim.
+
+The simplified schema does not yet support null abstention. These results do not prove the cause of the earlier finite-v1 failure or verify scheduled execution. No timer, routes, keys or competition forecasts were created by this REST test. Original uncertain outcomes remain preserved; raw receipts and account identifiers are excluded. Next work is offline schema/abstention compatibility review, not automatic use of the remaining call or deployment.
+
+## Historical finite rehearsal v1 outcome — 2026-10-23 01:30 UTC
 The first fixture ended in a generic provider-stage failure, consuming one attempt. Usage and cause remain unknown because diagnostic detail was insufficient. The fail-closed behavior stopped the remaining two fixtures before any alarms were scheduled. Independent status inspection showed stopped state with no alarm present; both the executing agent and an independent reviewer verified public and preview routes off. Scheduled model execution is therefore **not verified**. Preserve this result separately from the three earlier diagnostic records. No new calls or deployment follow from this checkpoint; the [tested disabled source](../experiments/finite-alarm-rehearsal/README.md) remains unchanged. Next work is offline diagnosis only, without resetting, rearming or retrying the consumed attempt.
 
 ## Historical diagnostic v3 checkpoint — 2026-10-23 01:07 UTC
@@ -90,7 +95,7 @@ The separate [instrumented offline runner](../experiments/finite-instrumented-of
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
 ## Next objective and boundaries
-1. Diagnose the finite-v1 provider-stage failure offline and await the eligibility reply. Preserve its consumed attempt and all three earlier diagnostic records; do not reset/rearm/retry or issue forecasts. Any additional provider call needs new approval. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
+1. Review schema and null-abstention compatibility offline and await the eligibility reply. The direct REST test stopped after two of three approved calls; do not automatically use the remaining call. Preserve all prior attempts and uncertainty; no forecasts or scheduled activation are authorized by this checkpoint. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
 2. Zero new spend approved. No further account/key actions, submissions, deployment, trading or contracts without the required authorization. No new runtime or continuous AI operation is verified.
 3. Retain historical research and live-artifact records without treating old plans as current authority. Named security-testing scope is a separate gate.
 
