@@ -89,6 +89,8 @@ The separate [instrumented offline runner](../experiments/finite-instrumented-of
 
 The [compatible offline candidate](../experiments/finite-compatible-offline/README.md) now preserves explicit transport normalization and the minimal nullable generation contract; all 31 synthetic tests pass. Defaults remain disabled and live binding/scheduling compatibility is unverified. The [proposed competitive strategy](../research/forecasting-strategy-20261023.md) is unimplemented and has no demonstrated edge; prospective paired accuracy, coverage and cost evaluation must precede promotion.
 
+The [atomic submission contract](../experiments/metaculus-atomic-contract/README.md) preserves 10 passing synthetic test groups for a combined forecast/comment request. It is a pure offline module, not a durable writer or live client. Probabilities outside 0.001–0.999 are rejected rather than clamped; HTTP 201 with an empty object supplies no record IDs or idempotency guarantee. Unresolved reconciliation stays unknown with no automatic retry. No registration, credentials or submission authority follows.
+
 ## Runtime
 - Bounded scheduled AI execution and SQLite result persistence: verified for three synthetic fixtures, completed 2026-10-23 at 02:18:04 UTC.
 - Two finite alarms executed; no perpetual cron. Terminal alarm absent; public/preview routes off independently verified.

@@ -16,3 +16,6 @@ Evidence informing, not proving, this proposal:
 - [Consistency Checks for Language Model Forecasters](https://arxiv.org/abs/2412.18544) evaluates logically related predictions and reports correlation with Brier performance. Consistency alone is not a realized forecasting or profit result for this venture.
 
 No implementation, live submission, spending, additional inference or runtime activation is authorized by this note.
+
+## Negative research checkpoint — 2026-10-23
+A convenience sample of 15 resolved questions from October 5 did not establish a suitable repeated, data-rich binary family. This was not a blind test and demonstrates no forecasting edge. The strategy remains a hypothesis; no question-family selection is validated by this sample.
