@@ -1,0 +1,9 @@
+{
+ // Review-only example. No account, bindings, migrations, routes or triggers.
+ "name":"DO-NOT-DEPLOY-unified-private-pilot",
+ "main":"worker.mjs",
+ "compatibility_date":"2026-10-23",
+ "compatibility_flags":["nodejs_compat"],
+ "workers_dev":false,
+ "preview_urls":false
+}

@@ -1,0 +1,8 @@
+{
+ "main_module":"runtime/worker.mjs",
+ "compatibility_date":"2026-10-23",
+ "keep_bindings":["secret_text","durable_object_namespace"],
+ "bindings":[{"type":"durable_object_namespace","name":"IDENTITY_DIAGNOSTIC","class_name":"IdentityDiagnostic"}],
+ "migrations":{"new_tag":"synthetic-diagnostic-example","new_sqlite_classes":["IdentityDiagnostic"]},
+ "observability":{"enabled":false}
+}

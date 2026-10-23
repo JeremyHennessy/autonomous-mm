@@ -61,3 +61,55 @@ At 2026-10-22 17:22:58 UTC, one explicitly owner-approved [itch.io Release Annou
 A broader reported 22-model screen considered services, reusable assets/data and distribution-backed software/licensing. Marketplace existence, adjacent purchases, asking prices and technical pain remain different evidence classes. No candidate becomes a validated business merely by passing tests.
 
 Keep Quiet Interface as the primary live product. Prioritize a narrow buyer-interest and compatibility gate for migration-loss checking; park OBS preflight as secondary local feasibility evidence rather than expanding two products. Migration has 34 passing local tests plus independent review and a small authentic public export fixture; OBS has 39 passing local tests plus independent review but synthetic-only compatibility evidence. Neither is launch-ready. A prepared local demo is not browser-verified. The [portfolio comparison](../research/opportunities/portfolio-checkpoint.md) preserves primary sources and limitations without private implementation, analytics or account information. No new launch, outreach, spending or runtime authority is inferred.
+
+## D010 — 2026-10-22 — Complete broad evidence register; reject weak generic offers
+The [60-idea Revenue Lab register](../research/opportunities/revenue-lab-60.md) separates evidence, scenarios, sources and test outcomes. It spans 15 sectors after near-duplicate replacements; ten shortlisted candidates were independently source-checked, not all 60 independently re-audited. Scores are judgments, not success probabilities. I09's narrower merchant batch and F03 administrative-preflight route remain unvalidated candidates. F20 generic paid reporting is stopped after free-tool overlap; F13 generic conversion is stopped after native/free support, with only residual-gap falsification retained. Eight SBOM synthetic tests are technically useful but not commercial differentiation.
+
+Prioritize a permission-bounded I09 buyer/compatibility test without claiming its original supplier-funded licensing hypothesis is validated. All 22 catalogue and 13 DOI checks are synthetic; DOI did not generate or deposit XML, catalogue did not import into a store. No prototype source, customer data, private analytics or account/financial records published. Research does not authorize outreach, spending, production data transmission, accounts or unattended operation. Zero launch-ready businesses or verified profit are established by this work.
+
+### D010 follow-up — F03 prospecting on hold
+Post-review checkpoint, 2026-10-22 20:58 UTC: F03 is ON HOLD for prospecting. A bounded read-only qualification pass found zero qualified named publisher opportunities. A [recent backfile-preparation discussion](https://community.crossref.org/t/xml-generator-for-doi-registration/16207) supports category-level pain, but the institution and continuing need are unverified and free Crossref help was already offered. Other examined correction cases were resolved or lacked verified current need. This is a negative bounded search result, not proof that the model can never work. Reopen only for an identified, voluntarily supplied current backlog with a demonstrated gap beyond native/free tools and appropriately authorized testing. Current commercial focus is the I09 buyer/referral hypothesis; no buyer validation is established. Earlier scores, scenarios and experiment plans below remain time-stamped hypotheses, not current launch recommendations.
+No individual prospect identities, contact details, private correspondence or account state are included in this public checkpoint.
+
+## D011 — 2026-10-22 — Prefer existing rewards; forecasting feasibility only
+Prioritize existing markets or reward systems that can be operated and iterated without recruiting a new customer/user audience. Catalogue/referral services, Upwork/client services and audience-building experiments are no longer the primary strategy. Earlier research remains historical evidence, not an active instruction to sell those offers. Only conditional forecasting-feasibility research is selected now: no profitable system, zero-owner-input operation or quick-cash route is established. No new spending is approved; capability, eligibility, cost and permission gates remain open.
+
+This supersedes I09/referral prospecting and customer/audience acquisition as the primary direction without rewriting earlier research. See the [source-backed current strategy](../research/opportunities/revenue-lab-60.md). Forecasting remains a conditional research choice, not a registered entrant, deployed runtime or earnings result. Security bounties need separate named scope; royalties are secondary; GPU hosting remains capital-conditional. No new launch, spending, access, financial transaction, contract or external communication follows from this decision.
+
+## D012 — 2026-10-22 — Setup progress is not operational validation
+Human account activation is complete. Exactly one bot, [HalifaxSmallHoursBot](https://www.metaculus.com/accounts/profile/311063/), was created and publicly verified with 0 predictions and 0 comments at this checkpoint. The bot key has not been read, copied, stored or used. An independent rerun of the private offline harness passed 18 tests at 22:34 UTC; this establishes neither live integration nor forecasting accuracy, revenue or scheduled autonomy.
+
+Google project/key creation and storage of both service keys in GitHub Actions secrets await new specific user approval. No paid access or forecast submissions are authorized. Next: resolve these narrowly scoped access approvals before any integration; preserve free-only cost gates and separately verify a bounded manual run before considering scheduling. No runtime is activated. Private identity, email, credentials and harness files are not published here.
+
+
+This updates D011's account-setup status only. Earlier research and stops remain historical evidence; no profit or continuous-operation claim is introduced.
+
+## D013 — 2026-10-23 — Verify a single cloud call before broader operation
+GitHub Models is not an available provider: [official documentation](https://docs.github.com/en/github-models) confirms full retirement on July 30, 2026, including inference API and BYOK. Any earlier provider comparison is historical and superseded on this point. Gemini setup is paused; no Google credentials were created.
+
+Cloudflare is the current conditional inference candidate. Free-only eligibility is owner-reported, not independently verified through the available subscription endpoint. Private account configuration is intentionally omitted. No cloud resources, model calls, schedules or Metaculus forecasts have been executed. The private Cloudflare safety prototype passed 23 tests and the separate one-call smoke prototype passed 11 tests on independent reruns. These are offline tests, not cloud integration, forecasting accuracy or operational-autonomy evidence.
+
+The existing [HalifaxSmallHoursBot profile](https://www.metaculus.com/accounts/profile/311063/) remains the sole created forecasting bot; its key has not been read, copied, stored or used. The pending approval is limited to an isolated one-call temporary public Cloudflare test and one eligibility inquiry, not a full pilot, persistent runtime or forecast submission. No paid access is authorized and the inquiry has not been sent.
+
+
+Continue investigating other existing-market reward opportunities without treating pools, offline tests or account setup as revenue. Reward-specific entry, eligibility and payout gates remain unresolved; no new competition entry or financial commitment is authorized.
+
+## D014 — 2026-10-23 — Stop after uncertain single provider attempt
+Actual Cloudflare hosting and SQLite deployment were verified. This is infrastructure evidence, not successful AI reasoning or a scheduled autonomous runtime. An initial empty POST was rejected before model-attempt reservation. A narrow, offline-tested transport repair used the same ledger and authorization window.
+
+The repaired single provider attempt ended **uncertain**. A provider exception and a response-format mismatch cannot be distinguished because the implementation discarded the diagnostic detail. An independent status read confirmed the uncertain state. The one-attempt budget is consumed: no reset, rearm, retry or forecast was performed, and no successful AI inference or billing total is verified. Public and preview routes were verified off at 00:28:45 UTC; the schedule list was empty.
+
+Next action is an offline-only diagnostic proposal. Any additional provider call requires new approval; it is not approved by this checkpoint. No scheduled runtime is active. The DataCrunch eligibility inquiry was sent at 00:14:31 UTC and awaits a reply; no signup or staking occurred. Private identities, account details, receipts and implementation artifacts are excluded.
+
+
+Preserve the consumed attempt and uncertain result as evidence rather than treating a repair as permission for another call. Earlier no-cloud-resource and unsent-inquiry statements are historical and superseded by this checkpoint.
+
+## D015 — 2026-10-23 — Distinguish provider response from passed test
+One separately approved diagnostic AI call resolved with HTTP 200 and reported 14 prompt tokens and 16 completion tokens. The returned response string failed the exact `4` acceptance criterion. Raw response text was not retained, so no causal diagnosis is supported. This is evidence of an actual provider response, not a passed smoke test, forecasting accuracy or a working autonomous agent.
+
+The persistent receipt was read back. Public and preview routes were verified off. No cron, forecasts, new credentials or earnings were produced. The first uncertain attempt remains preserved separately; v2 does not retroactively resolve it or authorize further calls. Billing totals and operational readiness remain unverified.
+
+The GitHub Security Lab CodeQL bounty is retired, not a current revenue opportunity: [official status](https://securitylab.github.com/bounties/) and [sunset notice](https://github.com/github/securitylab/discussions/828). This specific retirement does not assert that every GitHub security reward program is retired; named-scope permission remains required for any separate testing.
+
+
+Continue offline diagnosis only; no inference about the unretained response or additional call authorization.
