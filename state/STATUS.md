@@ -1,6 +1,6 @@
 # Operating checkpoint
 
-As of 2026-10-23 02:18 UTC. Bounded synthetic scheduled AI execution verified; no verified customer sale or always-on business operation.
+As of 2026-10-23 11:28 UTC. Bounded synthetic scheduled AI execution verified; no verified customer sale or always-on business operation.
 
 ## Verified
 - GitHub connector confirms `JeremyHennessy/autonomous-mm` is public, active, and defaults to `main`.
@@ -11,6 +11,13 @@ As of 2026-10-23 02:18 UTC. Bounded synthetic scheduled AI execution verified; n
 - [PR #2](https://github.com/JeremyHennessy/autonomous-mm/pull/2) merged at `e97c63b7e2bbfc7efa30ef6ba8a12062b143e864`; main was verified at this commit before this checkpoint.
 - [PR #3](https://github.com/JeremyHennessy/autonomous-mm/pull/3) merged at `efd96c1855da125c949dee2de2359a7ad911df35`; main independently verified at this commit for this checkpoint.
 - Spending cap: $0. No trading, paid services, external marketing, credential grants or deployment initiated by this bootstrap.
+
+## Identity-check checkpoint — 2026-10-23 11:28 UTC
+An encrypted credential was manually provisioned for the isolated pilot; only secret metadata, not its value, was inspected. This supersedes earlier no-credential-configuration statements, without establishing valid forecasting access. No credential, secret name, account identifier or private receipt is included here.
+
+One authorized private scheduled identity check consumed its one-use guard and returned **UNCERTAIN**. Overly broad sanitized diagnostic handling discarded the exact cause. This was an implementation mistake: it proves neither an invalid key nor successful identity verification. No forecasts, income or AI inference occurred in this test.
+
+The cron was removed, the exact inert fetch-only code restored, and public and preview routes were verified off at 11:28:49 UTC. The consumed guard remains preserved; no retry is authorized. An offline diagnostic revision is under review, not published or deployed. Next: review safe, bounded diagnostics, then obtain separate exact approval before another live call. Alternative reward-candidate research continues. Earlier bounded synthetic scheduled-AI success remains valid, but continuous operation and verified forecasting access are not established.
 
 ## Bounded scheduled AI result — 2026-10-23 02:18 UTC
 Compatible finite-v2 passed all three fictional fixtures through actual Cloudflare Worker/AI binding/SQLite execution: one manual POST followed by automatic alarms at 02:16 and 02:18 UTC. Terminal complete/alarm-absent status was verified at 02:18:04; public and preview routes were verified off by the executing agent and independently by 02:18:36. Reported usage was 360 input + 246 output tokens. Estimated 59.98251 neurons uses published rates, not a provider neuron receipt or invoice. See the [result and limitations](../experiments/finite-compatible-offline/RESULT.md). No retries, real forecasts, new keys or paid changes; no future run scheduled. This is bounded scheduled-AI evidence, not always-on operation, real forecasting accuracy or earnings. Earlier failures remain historical evidence.
@@ -101,7 +108,7 @@ The [atomic submission contract](../experiments/metaculus-atomic-contract/README
 [Scorecard](../finance/README.md): receipts, expenses, customers and profit are unmeasured/unverified, not assumed zero.
 
 ## Next objective and boundaries
-1. Review the bounded scheduled result and prospective evaluation protocol; await the eligibility reply. Preserve all consumed attempts and earlier uncertainty. No new forecast, run or activation is authorized by this checkpoint. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
+1. Review safe offline diagnostics for the uncertain identity check and require separate exact approval before another live call; continue alternative reward-candidate research and await the eligibility reply. Preserve all consumed attempts and earlier uncertainty. No new forecast, run or activation is authorized by this checkpoint. Do not recruit customers, restart catalogue/referral services or expand audience-building experiments as the primary strategy.
 2. Zero new spend approved. No further account/key actions, submissions, deployment, trading or contracts without the required authorization. No new runtime or continuous AI operation is verified.
 3. Retain historical research and live-artifact records without treating old plans as current authority. Named security-testing scope is a separate gate.
 
