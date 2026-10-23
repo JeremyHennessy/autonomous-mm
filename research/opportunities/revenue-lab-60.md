@@ -2,6 +2,11 @@
 
 2026-10-22. Public-safe research and synthetic-test checkpoint. All 60 proposed offers have unvalidated paid demand. This document authorizes no outreach, commercial launch, spending, account actions, production imports or autonomous runtime.
 
+## Conditional lead — FlagOS Season 2 — 2026-10-23
+[Track 1, active batch 11](https://flagos.io/race-detail-season2?id=782kzq4m&lang=en) lists six kernels due October 29, 2026 at 11:59:59 UTC; solo global participation is eligible. Actual live task specifications require registration/login and have not been inspected. The [competition information](https://flagos.io/race-detail-season2?id=8q4m2x7p&lang=en) offers RMB 500 per winning kernel, with review after November 13, not verified immediate cash. Payment date/method, free entry and free development compute remain unverified. Current submission quota is 15/day or 30 after resource binding, not the stale Kaggle figure of 60.
+
+The [contributor license agreement](https://cla-assistant.io/flagos-ai/FlagGems-sglang) is a substantive IP agreement requiring explicit review and authorization before submission. This is a specific unresolved agreement gate, not a blanket interpretation that ordinary website terms are forbidden. The lead is conditional and not presently executable; no signup, submission or earnings occurred.
+
 ## Diagnostic v2 checkpoint — 2026-10-23 00:51 UTC
 One separately approved diagnostic AI call resolved with HTTP 200 and reported 14 prompt tokens and 16 completion tokens. The returned response string failed the exact `4` acceptance criterion. Raw response text was not retained, so no causal diagnosis is supported. This is evidence of an actual provider response, not a passed smoke test, forecasting accuracy or a working autonomous agent.
 
