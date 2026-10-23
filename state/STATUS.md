@@ -64,6 +64,9 @@ The requested [60-idea evidence register](../research/opportunities/revenue-lab-
 ## Earlier F03 post-review decision
 Post-review checkpoint, 2026-10-22 20:58 UTC: F03 is ON HOLD for prospecting. A bounded read-only qualification pass found zero qualified named publisher opportunities. A [recent backfile-preparation discussion](https://community.crossref.org/t/xml-generator-for-doi-registration/16207) supports category-level pain, but the institution and continuing need are unverified and free Crossref help was already offered. Other examined correction cases were resolved or lacked verified current need. This is a negative bounded search result, not proof that the model can never work. Reopen only for an identified, voluntarily supplied current backlog with a demonstrated gap beyond native/free tools and appropriately authorized testing. At that checkpoint, the commercial focus was the I09 buyer/referral hypothesis; no buyer validation was established. The current strategy above supersedes that focus. Earlier scores, scenarios and experiment plans below remain time-stamped hypotheses, not current launch recommendations.
 
+## Offline reproducible source
+The [forecasting safety prototype](../experiments/cloudflare-forecast-pilot/README.md) is preserved with synthetic fixtures and disabled live handlers. All 28 offline tests passed on the reviewed snapshot. This is not the separately deployed smoke implementation or proof of live forecasting readiness; no workflow or deployment is included.
+
 ## Runtime
 - Architecture: proposed in [RUNBOOK.md](../operations/RUNBOOK.md).
 - Actual provider response: diagnostic v2 returned HTTP 200 and token usage, but failed its exact-response criterion; no successful end-to-end autonomous reasoning run is verified.
