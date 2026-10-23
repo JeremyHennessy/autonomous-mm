@@ -70,6 +70,8 @@ Post-review checkpoint, 2026-10-22 20:58 UTC: F03 is ON HOLD for prospecting. A 
 ## Offline reproducible source
 The [forecasting safety prototype](../experiments/cloudflare-forecast-pilot/README.md) is preserved with synthetic fixtures and disabled live handlers. All 28 offline tests passed on the reviewed snapshot. This is not the separately deployed smoke implementation or proof of live forecasting readiness; no workflow or deployment is included.
 
+The separate [structured-forecast validator](../experiments/structured-forecast-validator/README.md) is also preserved with synthetic fixtures; all 12 test groups passed. It performs no network calls or integration and does not establish model compliance, forecast accuracy or publication authority.
+
 ## Runtime
 - Architecture: proposed in [RUNBOOK.md](../operations/RUNBOOK.md).
 - Actual provider responses: v2 and v3 returned HTTP 200 but failed strict-output acceptance. V3's synthetic arithmetic was correct; no successful end-to-end forecasting run is verified.
